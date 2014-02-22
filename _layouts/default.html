@@ -1,0 +1,126 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+  <title>{{ page.title }} - {{ site.title }}</title>
+  <meta name="description" content="「あなたが千葉市に納めた税金がどこで使われているか(平成23・24年度決算)」と「千葉市の街づくりと財政の歴史(City Evolution in Fiscal Data)」をお示しします">
+  <meta name="viewport" content="width=device-width">
+
+  <link rel="stylesheet" href="css/bootstrap.css">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon" />
+  <script src="js/libs/modernizr-2.5.3.min.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+  <!--
+  <script src="http://d3js.org/d3.v2.js"></script>
+  -->
+</head>
+<body>
+  <header>
+    <div class="container">
+      <!--[if lt IE 9]><p class=chromeframe>お使いのウェブヴラウザは古いため，当サイトのコンテンツを正常に表示できません．<br><a href="http://browsehappy.com/">最新のウェブブラウザ</a>で閲覧する事をお勧めします．</p><![endif]-->
+      <div id="logo">
+        <a href="/">
+          <img src="img/logo.png" alt="{{ site.title }}">
+        </a>
+        <!--div id="claim">
+             2013年2月23日 <a href="http://peatix.com/event/10030">Chiba Open Data Day 2013 - こどもNo.1千葉 -</a> の参加者が協力して本サイトを作りました！あなたの税金がどこで使われているかをお示しします
+        </div-->
+        <div id="claim">
+          「あなたが千葉市に納めた税金がどこで使われているか(平成23・24年度決算)」と「千葉市の街づくりと財政の歴史(City Evolution in Fiscal Data)」をお示しします。本サイトは、2013年2月23日 <a href="http://peatix.com/event/10030" target="_blank">Chiba Open Data Day 2013 - こどもNo.1千葉 -</a>と
+          2014年2月22日 <a href="https://www.facebook.com/groups/IODD2014.Chiba/" target="_blank">Chiba Open Data Day 2014 - データでつなぐ現在・過去・未来 -</a>の成果です。<br>
+        </div>
+      </div>
+      <nav>
+        <ul class="nav nav-tabs">
+          <li><a href="/contact.html">お問い合わせ</a></li>
+          <li><a href="/team.html">Team for 千葉市</a></li>
+          <!--li><a href="/childsupport.html">子ども関係<br>事業のまとめ</a></li-->
+          <!--li><a href="/results.html">Open Data Day 2013での<br>活動成果</a></li-->
+          <li><a href="/sources.html">データの出所</a></li>
+          <li><a href="/about.html">サイトについて</a></li>
+          <!--li><a href="spending.html">Departmental Spending</a></li-->
+          <!--li><a href="bubbletree-map.html">Country &amp; Regional Analysis</a></li-->
+          <li><a href="/CEiFD.html">City Evolution in <br>Fiscal Data</a></li>
+          <li><a href="/dailybread2011.html">使途一日あたり<br>(平成23年度決算)</a></li>
+          <li><a href="/">使途一日あたり<br>(平成24年度決算)</a></li>
+        </ul>
+      </nav>
+      <script type="text/javascript">
+        $(function() {
+          var path = window.location.pathname;
+          $('ul.nav-tabs a').each(function(i,el) {
+            if (path == $(el).attr('href')) {
+              $(el).addClass('active');
+            }
+          });
+        });
+      </script>
+    </div>
+  </header>
+
+  <div class="container">
+    {{ content }}
+  </div>
+
+  <footer>
+    <div class="inner">
+      <div class="container">
+        <p>
+          Where Does My Money Go? (日本語版 ver.1.0.) は、イギリスの Open Knowledge Foundation が開発した Where Does My Money Go? (英語版) をベースに開発されています。使われているデータは千葉市の平成23年度決算のデータをもとにしています。Where Does My Money Go? プロジェクトは、公共データのオープン化を進める有志に支えられています。</p>
+
+        <ul class="footer-links span4 pull-left">
+          <li><a href="http://wheredoesmymoneygo.org">Where Does My Money Go?</a></li>
+          <li><a href="http://openspending.org">OpenSpending</a></li>
+          <li><a href="http://thedatahub.org">TheDataHub</a></li>
+          <li><a href="http://okfnlabs.org">OKFN Labs</a></li>
+          <!--li><a href="http://yourtopia.net">YourTopia</a></li-->
+        </ul>
+        <ul class="footer-links span4 pull-left">
+          <li><a href="team.html">Core team</a></li>
+          <li><a href="sources.html">Data sources</a> used on this site</li>
+          <!--li><a href="http://openspending.org/help/contact.html">Get in touch</a> and contribute</li-->
+          <li><a href="https://github.com/orezeni/wheredoesmymoneygo.yokohama">Code</a> and making your own</li>
+          <!--li><a href="http://okfn.org/privacy-policy/">Privacy Policy</a></li-->
+        </ul>
+
+        All <a href="http://creativecommons.org/licenses/by/3.0/">content</a>,
+        <a href="http://www.gnu.org/licenses/agpl.html">code</a>
+        and <a href="http://opendatacommons.org/licenses/odbl/">data</a> is
+        openly licensed in accordance with the
+        <a href="http://opendefinition.org/">open definition</a>.
+        <br/>
+        <a href="http://opendefinition.org"><img src="http://assets.okfn.org/images/ok_buttons/od_80x15_blue.png" alt="Open Content" /></a>
+      </div>
+    </div>
+  </footer>
+
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-38719591-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</body>
+</html>
+
+
+
+
+
+
+
+

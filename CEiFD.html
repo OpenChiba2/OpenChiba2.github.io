@@ -1,0 +1,193 @@
+---
+layout: default
+title: CEiFD
+---
+
+<h2 class="page-header">千葉市の街づくりと財政の歴史（City Evolution in Fiscal Data）</h2>
+
+<div class="row contact">
+<<<<<<< HEAD
+<<<<<<< HEAD
+<script type='text/javascript' src='http://code.jquery.com/jquery-2.0.0b1.js'></script>
+<script type="text/javascript" src="http://code.jquery.com/ui/1.9.2/jquery-ui.js"></script>
+<link rel="stylesheet" type="text/css" href="http://code.jquery.com/ui/1.9.2/themes/base/jquery-ui.css">
+<script src="http://code.highcharts.com/highcharts.js"></script>
+<script type="text/javascript">
+$(function () {
+    var chart;
+    var nendos = ['S40','S41','S42','S43','S44','S45','S46','S47','S48','S49','S50','S51','S52','S53','S54','S55','S56','S57','S58','S59','S60','S61','S62','S63','H1','H2','H3','H4','H5','H6','H7','H8','H9','H10','H11','H12','H13','H14','H15','H16','H17','H18','H19','H20','H21','H22','H23','H24'];
+    var yosans = [6065,6961,7853,9548,12242,15525,19540,23570,31650,39560,49680,61040,68220,81840,98550,108220,119470,127130,128410,134880,144530,153780,165060,174930,201870,227580,230110,268580,289750,301230,315620,325820,334720,332020,333650,334180,342780,344430,338120,345600,341600,332300,357300,321300,335000,350370,358200,365840];
+    var shizeis = [4067,4409,5645,6573,7984,9894,12028,14972,20097,26752,30052,35979,42214,48668,55282,63537,69557,75095,80746,86042,94717,102392,111943,119436,129962,137997,150109,161640,168058,163544,170917,177743,178706,172277,173135,169085,168562,166249,159430,156950,163574,167704,177785,178213,172371,169515,170414,168968];
+    var jinkos = [332188,354825,380214,407606,458204,482133,503967,526171,569842,609625,659356,683526,702820,720999,737866,746430,755731,761224,771847,782277,788930,796668,805607,815238,822619,829455,834545,841914,850631,853853,856878,859520,863930,871673,879435,887164,895609,904629,912623,918364,924319,930388,937041,947223,955279,961749,963120,963557];
+
+    $(document).ready(function() {
+        chart = new Highcharts.Chart({
+            chart: {
+                renderTo: 'container',
+                backgroundColor: null,
+                type: 'line',
+                marginRight: 100
+            },
+            title: {
+                text: '50年間を振り返ると （人口、財政規模、市税）'
+            },
+            subtitle: {
+                text: ''
+            },
+            xAxis: {
+                categories: nendos,
+                tickmarkPlacement: 'on',
+                title: {
+                    text: '年度'
+                }
+            },
+            yAxis: [{
+                title: {
+                    text: '予算額（百万円）',
+                    margin: 40
+                },
+                labels: {
+                    formatter: function() {
+                        return this.value;
+                    }
+                },
+                min: 0,
+                max: 400000
+            },{
+                title: {
+                    text: '住民基本台帳人口（人）',
+                    margin: 40
+                },
+                labels: {
+                    formatter: function() {
+                        return this.value;
+                    }
+                },
+                min: 200000,
+                max: 1000000,
+                opposite: true
+            }],
+
+            tooltip: {
+                formatter: function() {
+                    return ''+ this.x +': '+ Highcharts.numberFormat(this.y, 0, ',') +
+                    (this.series.name == '住民基本台帳人口' ? ' 人' : ' 百万円');
+                }
+            },
+            plotOptions: {
+                area: {
+                    stacking: 'normal',
+                    lineColor: '#666666',
+                    lineWidth: 1,
+                    marker: {
+                        lineWidth: 1,
+                        lineColor: '#666666'
+                    }
+                }
+            },
+            //凡例の設定
+            legend:{
+                verticalAlign: 'bottom',
+            },
+
+            credits: {
+            	enabled: false
+            },
+            // グラフデータの設定
+            series: [{
+                name: '予算',
+                type: 'line',
+                data: yosans
+            }, {
+                name: '市税',
+                type: 'line',                
+                data: shizeis
+            }, {
+                name: '住民基本台帳人口',
+                type: 'line',
+                yAxis: 1,
+                data: jinkos
+            }]
+        });
+    });
+
+    $('#slider').slider({
+        animate: 'slow',
+        range: 'min',
+        min: 1965,
+        max: 2012,
+        value: 2012,
+        step: 1,
+
+        slide: function(event, ui) {
+            if (ui.value >= 1989) {
+                $('#slider_value').html('平成' + (ui.value - 1988) + '年（西暦' + ui.value + '年）');
+            } else {
+                $('#slider_value').html('昭和' + (ui.value - 1925) + '年（西暦' + ui.value + '年）');
+            }
+
+            var newdata1 = [];
+            for (var i=0 ; i < nendos.length ; i++) {
+                if (ui.value - 1965 < i ) {
+                    newdata1.push(null);
+                } else {
+                    newdata1.push(yosans[i]);
+                }
+            }
+
+            var newdata2 = [];
+            for (var i=0 ; i < nendos.length ; i++) {
+                if (ui.value - 1965 < i ) {
+                    newdata2.push(null);
+                } else {
+                    newdata2.push(shizeis[i]);
+                }
+            }
+
+            var newdata3 = [];
+            for (var i=0 ; i < nendos.length ; i++) {
+                if (ui.value - 1965 < i ) {
+                    newdata3.push(null);
+                } else {
+                    newdata3.push(jinkos[i]);
+                }
+            }
+
+            chart.series[0].setVisible(false);
+            chart.series[0].setData (newdata1);
+            chart.series[0].setVisible(true,true);
+            chart.series[1].setVisible(false);
+            chart.series[1].setData (newdata2);
+            chart.series[1].setVisible(true,true);
+            chart.series[2].setVisible(false);
+            chart.series[2].setData (newdata3);
+            chart.series[2].setVisible(true,true);
+        },
+        stop: function(event, ui) {
+        }
+    });
+});
+</script>
+
+<div id="container" style="width: 1000px; height: 600px; margin: 0 auto"></div>
+
+<center>
+	<!--div id="slidertitle">年度を選択</div-->
+	<div id="slider" style="width: 1000px"></div>
+	<div id="slider_value">平成24年（西暦2012年）</div>
+</center>
+
+</div>
+=======
+=======
+>>>>>>> dd861dabb066a67095056d9cf09ed473732a30c4
+  <div class="span8 offset4"></div>
+  <div id="a"><iframe id="a" src="a.html" height="700" width="1100" frameborder="0" scrolling="auto">Loading...</iframe></div>
+  <div id="b"><iframe id="b" src="b.html" height="500" width="1100" frameborder="0" scrolling="auto">Loading...</iframe></div>
+  <div id="c"><iframe id="c" src="c.html" height="500" width="1100" frameborder="0" scrolling="auto">Loading...</iframe></div>
+  <div id="d"><iframe id="d" src="d.html" height="500" width="1100" frameborder="0" scrolling="auto">Loading...</iframe></div>    
+<<<<<<< HEAD
+>>>>>>> dd861dabb066a67095056d9cf09ed473732a30c4
+=======
+>>>>>>> dd861dabb066a67095056d9cf09ed473732a30c4
+</div>
