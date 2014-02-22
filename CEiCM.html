@@ -1,0 +1,196 @@
+---
+layout: default
+title: CEiCM
+---
+
+<h2 class="page-header">千葉の街の変遷と財政の歴史（City Evolution in City Map）</h2>
+
+<div class="row contact">
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="http://thematicmapping.org/playground/d3/d3.slider/d3.slider.css" /> 
+    <style>
+      
+      /* CSS goes here. */
+      @import url(leaflet.css?0.5);
+      .Spectral path {
+        fill: #000;
+        fill-opacity: .2;
+        stroke: #fff;
+        stroke-width: 1.5px;
+      }
+      .Spectral path.code_12101 { fill: #f00; fill-opacity: .5; }
+      .Spectral path.code_12102 { fill: #f00; fill-opacity: .5; }
+      .Spectral path.code_12103 { fill: #f00; fill-opacity: .5; }
+      .Spectral path.code_12104 { fill: #f00; fill-opacity: .5; }
+      .Spectral path.code_12105 { fill: #f00; fill-opacity: .5; }
+      .Spectral path.code_12106 { fill: #f00; fill-opacity: .5; }
+      .Spectral path.code_12201 { fill: #f00; fill-opacity: .5; }
+      /*
+      .chiba { fill-opacity: 0.5; }
+      #id_12101 { fill: #000; }
+      #id_12102 { fill: #123; }
+      #id_12103 { fill: #c0c; }
+      #id_12104 { fill: #d0c; }
+      #id_12105 { fill: #e0c; }
+      #id_12106 { fill: #f0c; }
+      */
+      .Spectral path:hover {
+  fill: brown;
+  fill-opacity: .7;
+}
+  html { height: 100% }
+body { height: 100%; margin: 0; padding: 0;}
+#map {
+  width: 480px;
+  height: 600px;
+      float:left;
+}
+      #slider {
+      clear: both;
+       width: 640px;
+      }
+      #container {
+      width: 700px;
+      height: 600px;
+      }
+      
+    </style>
+  </head>
+  <body>
+    <script src="./d3.v3.min.js"></script>
+    <script src="./leaflet.js"></script>
+    <script src="./topojson.v0.min.js"></script>
+    <script src="./leaflet.d3.js"></script>
+    <script src="./d3.slider.js"></script>
+    <script src="./jquery-2.0.0b1.js"></script>
+    <script src="highcharts.js"></script>
+    <div id="main">
+      <div id="map"></div>
+      <div id="container"></div>
+    </div>
+    <script src="./main.js" charset="utf-8"></script>
+    <div id="slider">
+    </div>
+    <script>
+      d3.select("#slider").call(d3.slider().axis(true).min(1945).max(2015).step(5).on("slide", function(evt, value) {
+        switchLayer(value);
+      animate(value);
+      }));
+      
+    </script>
+  </body>
+</html>
+  
+
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="d3.slider.css" /> 
+    <style>
+      
+      /* CSS goes here. */
+      @import url(leaflet.css?0.5);
+      .Spectral path {
+  fill: #000;
+  fill-opacity: .2;
+  stroke: #fff;
+  stroke-width: 1.5px;
+}
+      .Spectral path.code_12101 { fill: #f00; fill-opacity: .5; }
+      .Spectral path.code_12102 { fill: #f00; fill-opacity: .5; }
+      .Spectral path.code_12103 { fill: #f00; fill-opacity: .5; }
+      .Spectral path.code_12104 { fill: #f00; fill-opacity: .5; }
+      .Spectral path.code_12105 { fill: #f00; fill-opacity: .5; }
+      .Spectral path.code_12106 { fill: #f00; fill-opacity: .5; }
+      .Spectral path.code_12201 { fill: #f00; fill-opacity: .5; }
+      /*
+      .chiba { fill-opacity: 0.5; }
+      #id_12101 { fill: #000; }
+      #id_12102 { fill: #123; }
+      #id_12103 { fill: #c0c; }
+      #id_12104 { fill: #d0c; }
+      #id_12105 { fill: #e0c; }
+      #id_12106 { fill: #f0c; }
+      */
+      .Spectral path:hover {
+  fill: brown;
+  fill-opacity: .7;
+}
+  html { height: 100% }
+body { height: 100%; margin: 0; padding: 0;}
+#map {
+  width: 480px;
+  height: 600px;
+      float:left;
+}
+      #slider {
+      clear: both;
+       width: 640px;
+      }
+      #container {
+      width: 700px;
+      height: 600px;
+      }
+      
+    </style>
+  </head>
+  <body>
+    <script src="./d3.v3.min.js"></script>
+    <script src="./leaflet.js"></script>
+    <script src="./topojson.v0.min.js"></script>
+    <script src="./leaflet.d3.js"></script>
+    <script src="./d3.slider.js"></script>
+    <script src="./jquery-2.0.0b1.js"></script>
+    <script src="highcharts.js"></script>
+    <div id="main">
+      <div id="map"></div>
+      <div id="container"></div>
+
+    </div>
+    <script src="./main.js" charset="utf-8"></script>
+    <!--
+    <script>
+    <script src="./topojson.v0.min.js"></script>
+    <script src="./leaflet.d3.js"></script>
+      
+      /* JavaScript goes here. */
+var width = 960,
+    height = 1160;
+
+var svg = d3.select("body").append("svg")
+    .attr("width", width)
+    .attr("height", height);
+var projection = d3.geo.mercator()
+   .center([140.128, 35.604])
+   .scale(40000)
+   .translate([width / 2, height / 2]);
+
+d3.json("chibacity.json", function(error, chiba) {
+      var chibacity = topojson.object(chiba, chiba.objects.chibacity);
+var path = d3.geo.path()
+   .projection(projection);
+      svg.append("path")
+      .datum(chibacity)
+      .attr("d", path);
+      svg.selectAll(".chibacity")
+    .data(chibacity.geometries)
+  .enter().append("path")
+    .attr("class", function(d) { return "chiba code_" + d.id; })
+    .attr("d", path);
+});
+    </script>
+    -->
+    <div id="slider">
+    </div>
+    <script>
+      d3.select("#slider").call(d3.slider().axis(true).min(1945).max(2015).step(5).on("slide", function(evt, value) {
+        switchLayer(value);
+      animate(value);
+      }));
+      
+    </script>
+  </body>
+</html>
+</div>
