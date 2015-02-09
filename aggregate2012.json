@@ -398,14 +398,14 @@
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog1/01",
         "_id": 6,
         "name": "06",
-        "label": "市民"
+        "label": "行政・議会運営・市民活動推進"
       },
       "cofog2": {
         "taxonomy": "cofog2",
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog2/01-1",
         "_id": 1,
         "name": "06.1",
-        "label": "自治"
+        "label": "議会"
       },
       "cofog3": {
         "taxonomy": "cofog3",
@@ -424,14 +424,118 @@
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog1/01",
         "_id": 6,
         "name": "06",
-        "label": "市民"
+        "label": "行政・議会運営・市民活動推進"
       },
       "cofog2": {
         "taxonomy": "cofog2",
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog2/01-1",
         "_id": 2,
         "name": "06.2",
-        "label": "文化"
+        "label": "管理"
+      },
+      "cofog3": {
+        "taxonomy": "cofog3",
+        "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog3/",
+        "_id": 1,
+        "name": "",
+        "label": ""
+      }
+    },
+
+    {
+      "num_entries": 1,
+      "amount": 0.63,
+      "cofog1": {
+        "taxonomy": "cofog1",
+        "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog1/01",
+        "_id": 6,
+        "name": "06",
+        "label": "行政・議会運営・市民活動推進"
+      },
+      "cofog2": {
+        "taxonomy": "cofog2",
+        "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog2/01-1",
+        "_id": 2,
+        "name": "06.2",
+        "label": "財務・税務"
+      },
+      "cofog3": {
+        "taxonomy": "cofog3",
+        "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog3/",
+        "_id": 1,
+        "name": "",
+        "label": ""
+      }
+    },
+
+    {
+      "num_entries": 1,
+      "amount": 0.63,
+      "cofog1": {
+        "taxonomy": "cofog1",
+        "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog1/01",
+        "_id": 6,
+        "name": "06",
+        "label": "行政・議会運営・市民活動推進"
+      },
+      "cofog2": {
+        "taxonomy": "cofog2",
+        "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog2/01-1",
+        "_id": 2,
+        "name": "06.2",
+        "label": "市民活動"
+      },
+      "cofog3": {
+        "taxonomy": "cofog3",
+        "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog3/",
+        "_id": 1,
+        "name": "",
+        "label": ""
+      }
+    },
+
+    {
+      "num_entries": 1,
+      "amount": 0.63,
+      "cofog1": {
+        "taxonomy": "cofog1",
+        "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog1/01",
+        "_id": 6,
+        "name": "06",
+        "label": "行政・議会運営・市民活動推進"
+      },
+      "cofog2": {
+        "taxonomy": "cofog2",
+        "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog2/01-1",
+        "_id": 2,
+        "name": "06.2",
+        "label": "安全・安心"
+      },
+      "cofog3": {
+        "taxonomy": "cofog3",
+        "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog3/",
+        "_id": 1,
+        "name": "",
+        "label": ""
+      }
+    },
+
+    {
+      "num_entries": 1,
+      "amount": 0.63,
+      "cofog1": {
+        "taxonomy": "cofog1",
+        "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog1/01",
+        "_id": 6,
+        "name": "06",
+        "label": "行政・議会運営・市民活動推進"
+      },
+      "cofog2": {
+        "taxonomy": "cofog2",
+        "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog2/01-1",
+        "_id": 2,
+        "name": "06.2",
+        "label": "その他"
       },
       "cofog3": {
         "taxonomy": "cofog3",
