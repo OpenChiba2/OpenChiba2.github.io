@@ -163,14 +163,14 @@
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog1/01",
         "_id": 7,
         "name": "07",
-        "label": "上下水道"
+        "label": "借金返済"
       },
       "cofog2": {
         "taxonomy": "cofog2",
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog2/01-1",
         "_id": 1,
         "name": "07.1",
-        "label": "上水道"
+        "label": "公債費"
       },
       "cofog3": {
         "taxonomy": "cofog3",
@@ -189,7 +189,7 @@
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog1/01",
         "_id": 7,
         "name": "07",
-        "label": "上下水道"
+        "label": "借金返済"
       },
       "cofog2": {
         "taxonomy": "cofog2",
@@ -605,14 +605,14 @@
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog1/01",
         "_id": 5,
         "name": "05",
-        "label": "環境"
+        "label": "ごみ処理・リサイクル・環境保全"
       },
       "cofog2": {
         "taxonomy": "cofog2",
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog2/01-1",
         "_id": 1,
         "name": "05.1",
-        "label": "環境保全"
+        "label": "ごみ処理"
       },
       "cofog3": {
         "taxonomy": "cofog3",
@@ -631,14 +631,40 @@
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog1/01",
         "_id": 5,
         "name": "05",
-        "label": "環境"
+        "label": "ごみ処理・リサイクル・環境保全"
       },
       "cofog2": {
         "taxonomy": "cofog2",
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog2/01-1",
         "_id": 2,
         "name": "05.2",
-        "label": "資源循環"
+        "label": "リサイクル"
+      },
+      "cofog3": {
+        "taxonomy": "cofog3",
+        "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog3/",
+        "_id": 1,
+        "name": "",
+        "label": ""
+      }
+    },
+    
+    {
+      "num_entries": 1,
+      "amount": 2.47,
+      "cofog1": {
+        "taxonomy": "cofog1",
+        "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog1/01",
+        "_id": 5,
+        "name": "05",
+        "label": "ごみ処理・リサイクル・環境保全"
+      },
+      "cofog2": {
+        "taxonomy": "cofog2",
+        "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog2/01-1",
+        "_id": 3,
+        "name": "05.3",
+        "label": "環境保全"
       },
       "cofog3": {
         "taxonomy": "cofog3",
