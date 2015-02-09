@@ -35,10 +35,14 @@ OpenSpending.Styles.Cofog = {
 		'05.1': { icon: 'icons/tree.svg', color: '#C75746' },				/* E1 環境保全 */
 		'05.2': { icon: 'icons/garbage.svg', color: '#C75746' },			/* E2 資源循環 */
 
-	'06': { icon: 'icons/civilian-action.svg', color: '#C75746' },			/* 市民 */
-		'06.1': { icon: 'icons/civilian-action.svg', color: '#C75746' },	/* F1 自治 */
-		'06.2': { icon: 'icons/c_bunnka.svg', color: '#C75746' },			/* F2 文化 */
-		
+	'06': { icon: 'icons/civilian-action.svg', color: '#C75746' },			/* 行政・議会運営・市民活動推進 */
+		'06.1': { icon: 'icons/civilian-action.svg', color: '#C75746' },	/* F1 議会 */
+		'06.2': { icon: 'icons/c_bunnka.svg', color: '#C75746' },			/* F2 管理 */
+		'06.2': { icon: 'icons/c_bunnka.svg', color: '#C75746' },			/* F3 財務・税務 */
+		'06.2': { icon: 'icons/c_bunnka.svg', color: '#C75746' },			/* F4 市民活動 */
+		'06.2': { icon: 'icons/c_bunnka.svg', color: '#C75746' },			/* F5 安全・安心 */
+		'06.2': { icon: 'icons/c_bunnka.svg', color: '#C75746' },			/* F6 その他 */
+
 	'07': { icon: 'icons/c_waterdoun-watersup.svg', color: '#C75746' },			/* 上下水道 */
 		'07.1': { icon: 'icons/c_watersup.svg', color: '#C75746' },	/* G1 上水道 */
 		'07.2': { icon: 'icons/c_waterdoun.svg', color: '#C75746' },	/* G2 下水道 */
