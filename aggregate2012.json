@@ -455,8 +455,8 @@
       "cofog2": {
         "taxonomy": "cofog2",
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog2/01-1",
-        "_id": 2,
-        "name": "06.2",
+        "_id": 3,
+        "name": "06.3",
         "label": "財務・税務"
       },
       "cofog3": {
@@ -481,8 +481,8 @@
       "cofog2": {
         "taxonomy": "cofog2",
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog2/01-1",
-        "_id": 2,
-        "name": "06.2",
+        "_id": 4,
+        "name": "06.4",
         "label": "市民活動"
       },
       "cofog3": {
@@ -507,8 +507,8 @@
       "cofog2": {
         "taxonomy": "cofog2",
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog2/01-1",
-        "_id": 2,
-        "name": "06.2",
+        "_id": 5,
+        "name": "06.5",
         "label": "安全・安心"
       },
       "cofog3": {
@@ -533,8 +533,8 @@
       "cofog2": {
         "taxonomy": "cofog2",
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog2/01-1",
-        "_id": 2,
-        "name": "06.2",
+        "_id": 6,
+        "name": "06.6",
         "label": "その他"
       },
       "cofog3": {
