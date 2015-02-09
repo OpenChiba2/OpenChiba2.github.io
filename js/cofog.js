@@ -48,9 +48,9 @@ OpenSpending.Styles.Cofog = {
 		'07.2': { icon: 'icons/c_waterdoun.svg', color: '#C75746' },	/* G2 下水道 */
 
 	'08': { icon: 'icons/c_syoubou_bousai.svg', color: '#C75746' },				/* 消防・救急 */
-		'09.1': { icon: 'c_shyoubou.svg', color: '#C75746' },		/* O1 消防・救急 */
+		'08.1': { icon: 'c_shyoubou.svg', color: '#C75746' },		/* O1 消防・救急 */
 
 	'09': { icon: 'icons/c_government4.svg', color: '#C75746' },				/* その他 */
-		'08.1': { icon: 'icons/c_government4.svg', color: '#C75746' },		/* H1 その他 */
+		'09.1': { icon: 'icons/c_government4.svg', color: '#C75746' },		/* H1 その他 */
 
 };
