@@ -20,6 +20,10 @@ OpenSpending.Styles.Cofog = {
 			'02.1.3': { icon: 'icons/c_yougo.svg', color: '#C75746' },	/* B3 養護 */
 		'02.2': { icon: 'icons/education.svg', color: '#C75746' },			/* B4 教育 */
 		
+	'07': { icon: 'icons/c_waterdoun-watersup.svg', color: '#C75746' },			/* 上下水道 */
+		'07.1': { icon: 'icons/c_watersup.svg', color: '#C75746' },	/* G1 上水道 */
+		'07.2': { icon: 'icons/c_waterdoun.svg', color: '#C75746' },	/* G2 下水道 */
+
 	'03': { icon: 'icons/economy-tourism.svg', color: '#C75746' },			/* 経済・観光 */
 		'03.1': { icon: 'icons/c_nougyou.svg', color: '#C75746' },				/* C1 農業 */
 		'03.2': { icon: 'icons/c_syoukougyou.svg', color: '#C75746' },				/* C2 商工業 */
@@ -38,10 +42,6 @@ OpenSpending.Styles.Cofog = {
 		'06.4': { icon: 'icons/c_bunnka.svg', color: '#C75746' },			/* F4 市民活動 */
 		'06.5': { icon: 'icons/c_bunnka.svg', color: '#C75746' },			/* F5 安全・安心 */
 		'06.6': { icon: 'icons/c_bunnka.svg', color: '#C75746' },			/* F6 その他 */
-
-	'07': { icon: 'icons/c_waterdoun-watersup.svg', color: '#C75746' },			/* 上下水道 */
-		'07.1': { icon: 'icons/c_watersup.svg', color: '#C75746' },	/* G1 上水道 */
-		'07.2': { icon: 'icons/c_waterdoun.svg', color: '#C75746' },	/* G2 下水道 */
 
 	'08': { icon: 'icons/c_syoubou_bousai.svg', color: '#C75746' },				/* 消防・救急 */
 		'08.1': { icon: 'c_shyoubou.svg', color: '#C75746' },		/* O1 消防・救急 */
