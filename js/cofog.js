@@ -11,6 +11,7 @@ OpenSpending.Styles.Cofog = {
 	/* yokohama cofog */
 	'01': { icon: 'icons/c_kenkou_fukushi.svg', color: '#C75746' },			/* 保健・福祉・医療 */
 		'01.1': { icon: 'icons/c_kenkou.svg', color: '#C75746' },		/* A1 福祉 */
+			'01.1.1': { icon: 'icons/c_kosodate_shien.svg', color: '#C75746' },	/* B1 児童福祉 */
 		'01.2': { icon: 'icons/c_fukushi.svg', color: '#C75746' },		/* A2 保健衛生 */
 
 	'02': { icon: 'icons/schools.svg', color: '#C75746' },					/* 子育て・教育 */
