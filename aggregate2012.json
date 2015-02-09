@@ -155,7 +155,58 @@
         "label": ""
       }
     },
-       
+    {
+      "num_entries": 1,
+      "amount": 0.0,
+      "cofog1": {
+        "taxonomy": "cofog1",
+        "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog1/01",
+        "_id": 7,
+        "name": "07",
+        "label": "上下水道"
+      },
+      "cofog2": {
+        "taxonomy": "cofog2",
+        "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog2/01-1",
+        "_id": 1,
+        "name": "07.1",
+        "label": "上水道"
+      },
+      "cofog3": {
+        "taxonomy": "cofog3",
+        "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog3/",
+        "_id": 1,
+        "name": "",
+        "label": ""
+      }
+    },
+    
+    {
+      "num_entries": 1,
+      "amount": 0.66,
+      "cofog1": {
+        "taxonomy": "cofog1",
+        "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog1/01",
+        "_id": 7,
+        "name": "07",
+        "label": "上下水道"
+      },
+      "cofog2": {
+        "taxonomy": "cofog2",
+        "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog2/01-1",
+        "_id": 2,
+        "name": "07.2",
+        "label": "下水道"
+      },
+      "cofog3": {
+        "taxonomy": "cofog3",
+        "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog3/",
+        "_id": 1,
+        "name": "",
+        "label": ""
+      }
+    },
+    
     {
       "num_entries": 1,
       "amount": 0.47,
@@ -484,58 +535,6 @@
         "_id": 6,
         "name": "06.6",
         "label": "その他"
-      },
-      "cofog3": {
-        "taxonomy": "cofog3",
-        "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog3/",
-        "_id": 1,
-        "name": "",
-        "label": ""
-      }
-    },
-
-    {
-      "num_entries": 1,
-      "amount": 0.0,
-      "cofog1": {
-        "taxonomy": "cofog1",
-        "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog1/01",
-        "_id": 7,
-        "name": "07",
-        "label": "上下水道"
-      },
-      "cofog2": {
-        "taxonomy": "cofog2",
-        "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog2/01-1",
-        "_id": 1,
-        "name": "07.1",
-        "label": "上水道"
-      },
-      "cofog3": {
-        "taxonomy": "cofog3",
-        "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog3/",
-        "_id": 1,
-        "name": "",
-        "label": ""
-      }
-    },
-    
-    {
-      "num_entries": 1,
-      "amount": 0.66,
-      "cofog1": {
-        "taxonomy": "cofog1",
-        "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog1/01",
-        "_id": 7,
-        "name": "07",
-        "label": "上下水道"
-      },
-      "cofog2": {
-        "taxonomy": "cofog2",
-        "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog2/01-1",
-        "_id": 2,
-        "name": "07.2",
-        "label": "下水道"
       },
       "cofog3": {
         "taxonomy": "cofog3",
