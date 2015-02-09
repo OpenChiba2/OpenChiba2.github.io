@@ -600,72 +600,46 @@
 
     {
       "num_entries": 1,
-      "amount": 0.01,
-      "cofog1": {
-        "taxonomy": "cofog1",
-        "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog1/01",
-        "_id": 8,
-        "name": "08",
-        "label": "政策"
-      },
-      "cofog2": {
-        "taxonomy": "cofog2",
-        "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog2/01-1",
-        "_id": 1,
-        "name": "08.1",
-        "label": "政策"
-      },
-      "cofog3": {
-        "taxonomy": "cofog3",
-        "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog3/",
-        "_id": 1,
-        "name": "",
-        "label": ""
-      }
-    },
-    
-    {
-      "num_entries": 1,
-      "amount": 1.33,
-      "cofog1": {
-        "taxonomy": "cofog1",
-        "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog1/01",
-        "_id": 8,
-        "name": "08",
-        "label": "政策"
-      },
-      "cofog2": {
-        "taxonomy": "cofog2",
-        "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog2/01-1",
-        "_id": 2,
-        "name": "08.2",
-        "label": "総務"
-      },
-      "cofog3": {
-        "taxonomy": "cofog3",
-        "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog3/",
-        "_id": 1,
-        "name": "",
-        "label": ""
-      }
-    },
-
-    {
-      "num_entries": 1,
       "amount": 1.11,
       "cofog1": {
         "taxonomy": "cofog1",
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog1/01",
         "_id": 9,
         "name": "09",
-        "label": "消防・防災"
+        "label": "消防・救急"
       },
       "cofog2": {
         "taxonomy": "cofog2",
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog2/01-1",
         "_id": 1,
         "name": "09.1",
-        "label": "消防"
+        "label": "消防・救急"
+      },
+      "cofog3": {
+        "taxonomy": "cofog3",
+        "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog3/",
+        "_id": 1,
+        "name": "",
+        "label": ""
+      }
+    },
+ 
+    {
+      "num_entries": 1,
+      "amount": 0.01,
+      "cofog1": {
+        "taxonomy": "cofog1",
+        "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog1/01",
+        "_id": 8,
+        "name": "08",
+        "label": "その他"
+      },
+      "cofog2": {
+        "taxonomy": "cofog2",
+        "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog2/01-1",
+        "_id": 1,
+        "name": "08.1",
+        "label": "その他"
       },
       "cofog3": {
         "taxonomy": "cofog3",
@@ -676,32 +650,6 @@
       }
     },
     
-    {
-      "num_entries": 1,
-      "amount": 1.05,
-      "cofog1": {
-        "taxonomy": "cofog1",
-        "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog1/01",
-        "_id": 9,
-        "name": "09",
-        "label": "消防・防災"
-      },
-      "cofog2": {
-        "taxonomy": "cofog2",
-        "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog2/01-1",
-        "_id": 2,
-        "name": "09.2",
-        "label": "防災"
-      },
-      "cofog3": {
-        "taxonomy": "cofog3",
-        "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog3/",
-        "_id": 1,
-        "name": "",
-        "label": ""
-      }
-    }
-
   ],
   "summary": {
     "num_drilldowns": 17,
