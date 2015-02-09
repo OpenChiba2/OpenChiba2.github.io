@@ -604,15 +604,15 @@
       "cofog1": {
         "taxonomy": "cofog1",
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog1/01",
-        "_id": 9,
-        "name": "09",
+        "_id": 8,
+        "name": "08",
         "label": "消防・救急"
       },
       "cofog2": {
         "taxonomy": "cofog2",
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog2/01-1",
         "_id": 1,
-        "name": "09.1",
+        "name": "08.1",
         "label": "消防・救急"
       },
       "cofog3": {
@@ -630,15 +630,15 @@
       "cofog1": {
         "taxonomy": "cofog1",
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog1/01",
-        "_id": 8,
-        "name": "08",
+        "_id": 9,
+        "name": "09",
         "label": "その他"
       },
       "cofog2": {
         "taxonomy": "cofog2",
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog2/01-1",
         "_id": 1,
-        "name": "08.1",
+        "name": "09.1",
         "label": "その他"
       },
       "cofog3": {
