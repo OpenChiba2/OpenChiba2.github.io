@@ -74,7 +74,7 @@
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog3/",
         "_id": 10,
         "name": "02.1.1",
-        "label": "<a href=\"childsupport.html#support\" target=\"info\">子育て支援</a>"
+        "label": "<a href=\"childsupport.html#support\" target=\"info\">児童福祉</a>"
       }
     },
 
@@ -100,7 +100,7 @@
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog3/",
         "_id": 11,
         "name": "02.1.2",
-        "label": "<a href=\"childsupport.html#participation\" target=\"info\">参画・育成</a>"
+        "label": "<a href=\"childsupport.html#participation\" target=\"info\">母子福祉</a>"
       }
     },
 
@@ -126,7 +126,7 @@
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog3/",
         "_id": 12,
         "name": "02.1.2",
-        "label": "<a href=\"childsupport.html#welfare\" target=\"info\">養護</a>"
+        "label": "<a href=\"childsupport.html#welfare\" target=\"info\">児童施設</a>"
       }
     },
 
