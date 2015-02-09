@@ -31,10 +31,6 @@ OpenSpending.Styles.Cofog = {
 		'04.2': { icon: 'icons/harbor.svg', color: '#C75746' },				/* D2 都市整備・港湾 */
 		'04.3': { icon: 'icons/housing.svg', color: '#C75746' },			/* D3 建築 */
 
-	'05': { icon: 'icons/environment.svg', color: '#C75746' },				/* 環境 */
-		'05.1': { icon: 'icons/tree.svg', color: '#C75746' },				/* E1 環境保全 */
-		'05.2': { icon: 'icons/garbage.svg', color: '#C75746' },			/* E2 資源循環 */
-
 	'06': { icon: 'icons/civilian-action.svg', color: '#C75746' },			/* 行政・議会運営・市民活動推進 */
 		'06.1': { icon: 'icons/civilian-action.svg', color: '#C75746' },	/* F1 議会 */
 		'06.2': { icon: 'icons/c_bunnka.svg', color: '#C75746' },			/* F2 管理 */
@@ -50,7 +46,11 @@ OpenSpending.Styles.Cofog = {
 	'08': { icon: 'icons/c_syoubou_bousai.svg', color: '#C75746' },				/* 消防・救急 */
 		'08.1': { icon: 'c_shyoubou.svg', color: '#C75746' },		/* O1 消防・救急 */
 		'08.2': { icon: 'c_shyoubou.svg', color: '#C75746' },		/* O2 消防・救急 */
-
+		
+	'05': { icon: 'icons/environment.svg', color: '#C75746' },				/* 環境 */
+		'05.1': { icon: 'icons/tree.svg', color: '#C75746' },				/* E1 環境保全 */
+		'05.2': { icon: 'icons/garbage.svg', color: '#C75746' },			/* E2 資源循環 */
+		
 	'09': { icon: 'icons/c_government4.svg', color: '#C75746' },				/* その他 */
 		'09.1': { icon: 'icons/c_government4.svg', color: '#C75746' },		/* H1 その他 */
 		'09.2': { icon: 'icons/c_government4.svg', color: '#C75746' },		/* H1 その他 */
