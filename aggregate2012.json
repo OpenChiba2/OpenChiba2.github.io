@@ -15,7 +15,7 @@
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog2/01-1",
         "_id": 1,
         "name": "01.1",
-        "label": "健康"
+        "label": "福祉"
       },
       "cofog3": {
         "taxonomy": "cofog3",
@@ -41,7 +41,7 @@
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog2/01-1",
         "_id": 2,
         "name": "01.2",
-        "label": "福祉"
+        "label": "保健衛生"
       },
       "cofog3": {
         "taxonomy": "cofog3",
