@@ -22,7 +22,6 @@ OpenSpending.Styles.Cofog = {
 		
 	'07': { icon: 'icons/c_waterdoun-watersup.svg', color: '#C75746' },			/* 借金返済 */
 		'07.1': { icon: 'icons/c_watersup.svg', color: '#C75746' },	/* G1 公債費 */
-		'07.2': { icon: 'icons/c_waterdoun.svg', color: '#C75746' },	/* G2 下水道 */
 
 	'03': { icon: 'icons/economy-tourism.svg', color: '#C75746' },			/* 経済・観光 */
 		'03.1': { icon: 'icons/c_nougyou.svg', color: '#C75746' },				/* C1 農業 */
