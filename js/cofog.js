@@ -24,7 +24,7 @@ OpenSpending.Styles.Cofog = {
 		'03.1': { icon: 'icons/c_nougyou.svg', color: '#C75746' },				/* C1 農業 */
 		'03.2': { icon: 'icons/c_syoukougyou.svg', color: '#C75746' },				/* C2 商工業 */
 		'03.3': { icon: 'icons/harbor.svg', color: '#C75746' },				/* C3 観光 */
-		'03.4': { icon: 'icons/harbor.svg', color: '#C75746' },				/* C4 観光 */
+		'03.4': { icon: 'icons/harbor.svg', color: '#C75746' },				/* C4 消費者 */
 
 	'04': { icon: 'icons/our-streets.svg', color: '#C75746' },				/* まちづくり */
 		'04.1': { icon: 'icons/street-lights.svg', color: '#C75746' },		/* D1 道路・交通 */
