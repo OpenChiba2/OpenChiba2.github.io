@@ -47,12 +47,10 @@ OpenSpending.Styles.Cofog = {
 		'07.1': { icon: 'icons/c_watersup.svg', color: '#C75746' },	/* G1 上水道 */
 		'07.2': { icon: 'icons/c_waterdoun.svg', color: '#C75746' },	/* G2 下水道 */
 
-	'08': { icon: 'icons/c_government4.svg', color: '#C75746' },				/* 政策 */
-		'08.1': { icon: 'icons/c_government4.svg', color: '#C75746' },		/* H1 政策 */
-		'08.2': { icon: 'icons/publicaffairs.svg', color: '#C75746' },			/* H2 総務 */
+	'08': { icon: 'icons/c_syoubou_bousai.svg', color: '#C75746' },				/* 消防・救急 */
+		'09.1': { icon: 'c_shyoubou.svg', color: '#C75746' },		/* O1 消防・救急 */
 
-	'09': { icon: 'icons/c_syoubou_bousai.svg', color: '#C75746' },				/* 消防・防災 */
-		'09.1': { icon: 'c_shyoubou.svg', color: '#C75746' },		/* O1 消防 */
-		'09.2': { icon: 'icons/c_bousai.svg', color: '#C75746' },		/* O2 防災 */
+	'09': { icon: 'icons/c_government4.svg', color: '#C75746' },				/* その他 */
+		'08.1': { icon: 'icons/c_government4.svg', color: '#C75746' },		/* H1 その他 */
 
 };
