@@ -9,9 +9,9 @@ OpenSpending.Styles = OpenSpending.Styles || {};
 OpenSpending.Styles.Cofog = {
 
 	/* yokohama cofog */
-	'01': { icon: 'icons/c_kenkou_fukushi.svg', color: '#C75746' },			/* 健康福祉 */
-		'01.1': { icon: 'icons/c_kenkou.svg', color: '#C75746' },		/* A1 健康 */
-		'01.2': { icon: 'icons/c_fukushi.svg', color: '#C75746' },		/* A2 福祉 */
+	'01': { icon: 'icons/c_kenkou_fukushi.svg', color: '#C75746' },			/* 保健・福祉・医療 */
+		'01.1': { icon: 'icons/c_kenkou.svg', color: '#C75746' },		/* A1 福祉 */
+		'01.2': { icon: 'icons/c_fukushi.svg', color: '#C75746' },		/* A2 保健衛生 */
 
 	'02': { icon: 'icons/schools.svg', color: '#C75746' },					/* 子育て・教育 */
 		'02.1': { icon: 'icons/pre-school.svg', color: '#C75746' },			/* こども青少年 */
