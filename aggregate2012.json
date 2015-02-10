@@ -630,15 +630,15 @@
       "cofog1": {
         "taxonomy": "cofog1",
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog1/01",
-        "_id":10,
-        "name": "10",
+        "_id": 3,
+        "name": "03",
         "label": "借金返済"
       },
       "cofog2": {
         "taxonomy": "cofog2",
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog2/01-1",
         "_id": 1,
-        "name": "10.1",
+        "name": "03.1",
         "label": "公債費"
       },
       "cofog3": {
@@ -656,15 +656,15 @@
       "cofog1": {
         "taxonomy": "cofog1",
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog1/01",
-        "_id": 3,
-        "name": "03",
+        "_id": 4,
+        "name": "04",
         "label": "経済振興・農林水産・観光振興"
       },
       "cofog2": {
         "taxonomy": "cofog2",
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog2/01-1",
         "_id": 1,
-        "name": "03.1",
+        "name": "04.1",
         "label": "経済"
       },
       "cofog3": {
@@ -682,15 +682,15 @@
       "cofog1": {
         "taxonomy": "cofog1",
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog1/01",
-        "_id": 3,
-        "name": "03",
+        "_id": 4,
+        "name": "04",
         "label": "経済振興・農林水産・観光振興"
       },
       "cofog2": {
         "taxonomy": "cofog2",
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog2/01-1",
         "_id": 2,
-        "name": "03.2",
+        "name": "04.2",
         "label": "農畜産業"
       },
       "cofog3": {
@@ -708,15 +708,15 @@
       "cofog1": {
         "taxonomy": "cofog1",
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog1/01",
-        "_id": 3,
-        "name": "03",
+        "_id": 4,
+        "name": "04",
         "label": "経済振興・農林水産・観光振興"
       },
       "cofog2": {
         "taxonomy": "cofog2",
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog2/01-1",
         "_id": 3,
-        "name": "03.3",
+        "name": "04.3",
         "label": "観光"
       },
       "cofog3": {
@@ -734,15 +734,15 @@
       "cofog1": {
         "taxonomy": "cofog1",
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog1/01",
-        "_id": 3,
-        "name": "03",
+        "_id": 4,
+        "name": "04",
         "label": "経済振興・農林水産・観光振興"
       },
       "cofog2": {
         "taxonomy": "cofog2",
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog2/01-1",
         "_id": 4,
-        "name": "03.4",
+        "name": "04.4",
         "label": "消費者"
       },
       "cofog3": {
