@@ -46,7 +46,7 @@
       "cofog3": {
         "taxonomy": "cofog3",
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog3/",
-        "_id": 1,
+        "_id": 2,
         "name": "0.1.2",
         "label": "高齢者福祉"
       }
@@ -72,7 +72,7 @@
       "cofog3": {
         "taxonomy": "cofog3",
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog3/",
-        "_id": 1,
+        "_id": 3,
         "name": "0.1.3",
         "label": "障害者福祉"
       }
@@ -98,7 +98,7 @@
       "cofog3": {
         "taxonomy": "cofog3",
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog3/",
-        "_id": 1,
+        "_id": 4,
         "name": "0.1.4",
         "label": "生活保護"
       }
@@ -150,7 +150,7 @@
       "cofog3": {
         "taxonomy": "cofog3",
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog3/",
-        "_id": 1,
+        "_id": 2,
         "name": "01.2.2",
         "label": "感染症・公害対策"
       }
@@ -176,7 +176,7 @@
       "cofog3": {
         "taxonomy": "cofog3",
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog3/",
-        "_id": 1,
+        "_id": 3,
         "name": "01.2.3",
         "label": "環境衛生"
       }
@@ -202,7 +202,7 @@
       "cofog3": {
         "taxonomy": "cofog3",
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog3/",
-        "_id": 1,
+        "_id": 4,
         "name": "01.2.4",
         "label": "病院"
       }
@@ -228,7 +228,7 @@
       "cofog3": {
         "taxonomy": "cofog3",
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog3/",
-        "_id": 1,
+        "_id": 5,
         "name": "01.2.5",
         "label": "水道"
       }
