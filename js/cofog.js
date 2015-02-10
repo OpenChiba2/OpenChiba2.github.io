@@ -67,10 +67,10 @@ OpenSpending.Styles.Cofog = {
 		'07.1': { icon: 'c_shyoubou.svg', color: '#C75746' },		/* O1 消防・救急 */
 		'07.2': { icon: 'c_shyoubou.svg', color: '#C75746' },		/* O2 消防・救急 */
 		
-	'05': { icon: 'icons/environment.svg', color: '#C75746' },				/* ごみ処理・リサイクル・環境保全 */
-		'05.1': { icon: 'icons/tree.svg', color: '#C75746' },				/* E1 ごみ処理 */
-		'05.2': { icon: 'icons/garbage.svg', color: '#C75746' },			/* E2 リサイクル */
-		'05.3': { icon: 'icons/garbage.svg', color: '#C75746' },			/* E3 環境保全*/
+	'08': { icon: 'icons/environment.svg', color: '#C75746' },				/* ごみ処理・リサイクル・環境保全 */
+		'08.1': { icon: 'icons/tree.svg', color: '#C75746' },				/* E1 ごみ処理 */
+		'08.2': { icon: 'icons/garbage.svg', color: '#C75746' },			/* E2 リサイクル */
+		'08.3': { icon: 'icons/garbage.svg', color: '#C75746' },			/* E3 環境保全*/
 		
 	'09': { icon: 'icons/c_government4.svg', color: '#C75746' },				/* その他 */
 		'09.1': { icon: 'icons/c_government4.svg', color: '#C75746' },		/* H1 その他 */
