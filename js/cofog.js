@@ -63,9 +63,9 @@ OpenSpending.Styles.Cofog = {
 		'06.5': { icon: 'icons/c_bunnka.svg', color: '#C75746' },			/* F5 安全・安心 */
 		'06.6': { icon: 'icons/c_bunnka.svg', color: '#C75746' },			/* F6 その他 */
 
-	'08': { icon: 'icons/c_syoubou_bousai.svg', color: '#C75746' },				/* 消防・救急 */
-		'08.1': { icon: 'c_shyoubou.svg', color: '#C75746' },		/* O1 消防・救急 */
-		'08.2': { icon: 'c_shyoubou.svg', color: '#C75746' },		/* O2 消防・救急 */
+	'07': { icon: 'icons/c_syoubou_bousai.svg', color: '#C75746' },				/* 消防・救急 */
+		'07.1': { icon: 'c_shyoubou.svg', color: '#C75746' },		/* O1 消防・救急 */
+		'07.2': { icon: 'c_shyoubou.svg', color: '#C75746' },		/* O2 消防・救急 */
 		
 	'05': { icon: 'icons/environment.svg', color: '#C75746' },				/* ごみ処理・リサイクル・環境保全 */
 		'05.1': { icon: 'icons/tree.svg', color: '#C75746' },				/* E1 ごみ処理 */
