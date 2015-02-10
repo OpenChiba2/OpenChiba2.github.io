@@ -99,7 +99,7 @@
         "taxonomy": "cofog3",
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog3/",
         "_id": 1,
-        "name": "0.1.3",
+        "name": "0.1.4",
         "label": "生活保護"
       }
     },
@@ -229,7 +229,7 @@
         "taxonomy": "cofog3",
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog3/",
         "_id": 1,
-        "name": "01.2.4",
+        "name": "01.2.5",
         "label": "水道"
       }
     },
