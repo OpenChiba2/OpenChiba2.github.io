@@ -630,15 +630,15 @@
       "cofog1": {
         "taxonomy": "cofog1",
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog1/01",
-        "_id": 7,
-        "name": "07",
+        "_id":10,
+        "name": "10",
         "label": "借金返済"
       },
       "cofog2": {
         "taxonomy": "cofog2",
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog2/01-1",
         "_id": 1,
-        "name": "07.1",
+        "name": "10.1",
         "label": "公債費"
       },
       "cofog3": {
