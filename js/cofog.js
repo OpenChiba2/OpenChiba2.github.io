@@ -11,8 +11,16 @@ OpenSpending.Styles.Cofog = {
 	/* yokohama cofog */
 	'01': { icon: 'icons/c_kenkou_fukushi.svg', color: '#C75746' },			/* 保健・福祉・医療 */
 		'01.1': { icon: 'icons/c_kenkou.svg', color: '#C75746' },		/* A1 福祉 */
-			'01.1.1': { icon: 'icons/c_kosodate_shien.svg', color: '#C75746' },	/* B1 児童福祉 */
+			'01.1.1': { icon: 'icons/c_kosodate_shien.svg', color: '#C75746' },	/* B1 社会福祉 */
+			'01.1.2': { icon: 'icons/c_kosodate_shien.svg', color: '#C75746' },	/* B1 高齢者福祉 */
+			'01.1.3': { icon: 'icons/c_kosodate_shien.svg', color: '#C75746' },	/* B1 障害者福祉 */
+			'01.1.4': { icon: 'icons/c_kosodate_shien.svg', color: '#C75746' },	/* B1 生活保護 */
 		'01.2': { icon: 'icons/c_fukushi.svg', color: '#C75746' },		/* A2 保健衛生 */
+			'01.2.1': { icon: 'icons/c_kosodate_shien.svg', color: '#C75746' },	/* B1 保健衛生 */
+			'01.2.2': { icon: 'icons/c_kosodate_shien.svg', color: '#C75746' },	/* B1 感染症・公害対策 */
+			'01.2.3': { icon: 'icons/c_kosodate_shien.svg', color: '#C75746' },	/* B1 環境衛生 */
+			'01.2.4': { icon: 'icons/c_kosodate_shien.svg', color: '#C75746' },	/* B1 病院 */
+			'01.2.5': { icon: 'icons/c_kosodate_shien.svg', color: '#C75746' },	/* B1 ス水道 */
 
 	'02': { icon: 'icons/schools.svg', color: '#C75746' },					/* 子育て・教育 */
 		'02.1': { icon: 'icons/pre-school.svg', color: '#C75746' },			/* 子育て */
