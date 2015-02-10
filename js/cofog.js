@@ -50,10 +50,10 @@ OpenSpending.Styles.Cofog = {
 		'03.3': { icon: 'icons/harbor.svg', color: '#C75746' },				/* C3 観光 */
 		'03.4': { icon: 'icons/harbor.svg', color: '#C75746' },				/* C4 消費者 */
 
-	'04': { icon: 'icons/our-streets.svg', color: '#C75746' },				/* まちづくり */
-		'04.1': { icon: 'icons/street-lights.svg', color: '#C75746' },		/* D1 道路・交通 */
-		'04.2': { icon: 'icons/harbor.svg', color: '#C75746' },				/* D2 都市整備・港湾 */
-		'04.3': { icon: 'icons/housing.svg', color: '#C75746' },			/* D3 建築 */
+	'05': { icon: 'icons/our-streets.svg', color: '#C75746' },				/* まちづくり */
+		'05.1': { icon: 'icons/street-lights.svg', color: '#C75746' },		/* D1 道路・交通 */
+		'05.2': { icon: 'icons/harbor.svg', color: '#C75746' },				/* D2 都市整備・港湾 */
+		'05.3': { icon: 'icons/housing.svg', color: '#C75746' },			/* D3 建築 */
 
 	'06': { icon: 'icons/civilian-action.svg', color: '#C75746' },			/* 行政・議会運営・市民活動推進 */
 		'06.1': { icon: 'icons/civilian-action.svg', color: '#C75746' },	/* F1 議会 */
