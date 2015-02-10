@@ -41,14 +41,14 @@ OpenSpending.Styles.Cofog = {
 			'02.2.8': { icon: 'icons/c_yougo.svg', color: '#C75746' },	/* B3 社会教育 */
 			'02.2.9': { icon: 'icons/c_yougo.svg', color: '#C75746' },	/* B3 給食 */
 
-	'10': { icon: 'icons/c_waterdoun-watersup.svg', color: '#C75746' },			/* 借金返済 */
-		'10.1': { icon: 'icons/c_watersup.svg', color: '#C75746' },	/* G1 公債費 */
+	'03': { icon: 'icons/c_waterdoun-watersup.svg', color: '#C75746' },			/* 借金返済 */
+		'03.1': { icon: 'icons/c_watersup.svg', color: '#C75746' },	/* G1 公債費 */
 
-	'03': { icon: 'icons/economy-tourism.svg', color: '#C75746' },			/* 経済・観光 */
-		'03.1': { icon: 'icons/c_nougyou.svg', color: '#C75746' },				/* C1 農業 */
-		'03.2': { icon: 'icons/c_syoukougyou.svg', color: '#C75746' },				/* C2 商工業 */
-		'03.3': { icon: 'icons/harbor.svg', color: '#C75746' },				/* C3 観光 */
-		'03.4': { icon: 'icons/harbor.svg', color: '#C75746' },				/* C4 消費者 */
+	'04': { icon: 'icons/economy-tourism.svg', color: '#C75746' },			/* 経済・観光 */
+		'04.1': { icon: 'icons/c_nougyou.svg', color: '#C75746' },				/* C1 農業 */
+		'04.2': { icon: 'icons/c_syoukougyou.svg', color: '#C75746' },				/* C2 商工業 */
+		'04.3': { icon: 'icons/harbor.svg', color: '#C75746' },				/* C3 観光 */
+		'04.4': { icon: 'icons/harbor.svg', color: '#C75746' },				/* C4 消費者 */
 
 	'05': { icon: 'icons/our-streets.svg', color: '#C75746' },				/* まちづくり */
 		'05.1': { icon: 'icons/street-lights.svg', color: '#C75746' },		/* D1 道路・交通 */
