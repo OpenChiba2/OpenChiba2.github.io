@@ -760,15 +760,15 @@
       "cofog1": {
         "taxonomy": "cofog1",
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog1/01",
-        "_id": 4,
-        "name": "04",
+        "_id": 5,
+        "name": "05",
         "label": "道路・住宅・街づくり"
       },
       "cofog2": {
         "taxonomy": "cofog2",
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog2/01-1",
         "_id": 1,
-        "name": "04.1",
+        "name": "05.1",
         "label": "土木"
       },
       "cofog3": {
@@ -786,15 +786,15 @@
       "cofog1": {
         "taxonomy": "cofog1",
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog1/01",
-        "_id": 4,
-        "name": "04",
+        "_id": 5,
+        "name": "05",
         "label": "道路・住宅・街づくり"
       },
       "cofog2": {
         "taxonomy": "cofog2",
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog2/01-1",
         "_id": 2,
-        "name": "04.2",
+        "name": "05.2",
         "label": "街づくり"
       },
       "cofog3": {
@@ -812,15 +812,15 @@
       "cofog1": {
         "taxonomy": "cofog1",
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog1/01",
-        "_id": 4,
-        "name": "04",
+        "_id": 5,
+        "name": "05",
         "label": "道路・住宅・街づくり"
       },
       "cofog2": {
         "taxonomy": "cofog2",
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog2/01-1",
         "_id": 3,
-        "name": "04.3",
+        "name": "05.3",
         "label": "住環境"
       },
       "cofog3": {
