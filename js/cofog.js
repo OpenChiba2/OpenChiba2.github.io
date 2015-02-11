@@ -12,7 +12,7 @@ OpenSpending.Styles.Cofog = {
 	'01': { icon: 'icons/c_kenkou_fukushi.svg', color: '#C75746' },			/* 保健・福祉・医療 */
 		'01.1': { icon: 'icons/c_kenkou.svg', color: '#C75746' },		/* A1 福祉 */
 			'01.1.1': { icon: 'icons/c_kosodate_shien.svg', color: '#C75746' },	/* B1 社会福祉 */
-			'01.1.2': { icon: 'old-age.svg ', color: '#C75746' },	/* B1 高齢者福祉 */
+			'01.1.2': { icon: 'icons/old-age.svg ', color: '#C75746' },	/* B1 高齢者福祉 */
 			'01.1.3': { icon: 'icons/helping-others.svg ', color: '#C75746' },	/* B1 障害者福祉 */
 			'01.1.4': { icon: 'icons/c_kosodate_shien.svg', color: '#C75746' },	/* B1 生活保護 */
 		'01.2': { icon: 'icons/c_fukushi.svg', color: '#C75746' },		/* A2 保健衛生 */
@@ -67,7 +67,7 @@ OpenSpending.Styles.Cofog = {
 			'05.2.2': { icon: 'icons/c_sankaku_ikusei.svg', color: '#C75746' },	/* B2 モノレール */
 			'05.2.3': { icon: 'icons/c_yougo.svg', color: '#C75746' },	/* B3 下水道 */
 		'05.3': { icon: 'icons/housing.svg', color: '#C75746' },			/* D3 住環境 */
-			'05.3.1': { icon: 'community.svg ', color: '#C75746' },	/* B1 公園 */
+			'05.3.1': { icon: 'icons/community.svg ', color: '#C75746' },	/* B1 公園 */
 			'05.3.2': { icon: 'icons/c_sankaku_ikusei.svg', color: '#C75746' },	/* B2 緑化推進 */
 			'05.3.3': { icon: 'icons/c_yougo.svg', color: '#C75746' },	/* B3 住宅 */
 
@@ -86,7 +86,7 @@ OpenSpending.Styles.Cofog = {
 		'06.4': { icon: 'icons/civilian-action.svg', color: '#C75746' },			/* F4 市民活動 */
 			'06.4.1': { icon: 'icons/c_kosodate_shien.svg', color: '#C75746' },	/* B1 広報 */
 			'06.4.2': { icon: 'icons/c_sankaku_ikusei.svg', color: '#C75746' },	/* B2 市民自治 */
-			'06.4.3': { icon: 'sports.svg ', color: '#C75746' },	/* B3 文化・スポーツ振興 */
+			'06.4.3': { icon: 'icons/sports.svg ', color: '#C75746' },	/* B3 文化・スポーツ振興 */
 		'06.5': { icon: 'icons/c_bunnka.svg', color: '#C75746' },			/* F5 安全・安心 */
 			'06.5.1': { icon: 'icons/car.svg ', color: '#C75746' },	/* B1 交通政策 */
 			'06.5.2': { icon: 'icons/c_sankaku_ikusei.svg', color: '#C75746' },	/* B2 防災対策 */
