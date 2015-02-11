@@ -73,11 +73,29 @@ OpenSpending.Styles.Cofog = {
 
 	'06': { icon: 'icons/civilian-action.svg', color: '#C75746' },			/* 行政・議会運営・市民活動推進 */
 		'06.1': { icon: 'icons/civilian-action.svg', color: '#C75746' },	/* F1 議会 */
+			'06.1.1': { icon: 'icons/c_kosodate_shien.svg', color: '#C75746' },	/* B1 議会 */
 		'06.2': { icon: 'icons/c_bunnka.svg', color: '#C75746' },			/* F2 管理 */
+			'06.2.1': { icon: 'icons/c_kosodate_shien.svg', color: '#C75746' },	/* B1 一般管理 */
+			'06.2.2': { icon: 'icons/c_sankaku_ikusei.svg', color: '#C75746' },	/* B2 人事管理 */
+			'06.2.3': { icon: 'icons/c_yougo.svg', color: '#C75746' },	/* B3 文書管理 */
+			'06.2.4': { icon: 'icons/c_yougo.svg', color: '#C75746' },	/* B3 区政推進 */
 		'06.3': { icon: 'icons/c_bunnka.svg', color: '#C75746' },			/* F3 財務・税務 */
+			'06.3.1': { icon: 'icons/c_kosodate_shien.svg', color: '#C75746' },	/* B1 財政管理 */
+			'06.3.2': { icon: 'icons/c_sankaku_ikusei.svg', color: '#C75746' },	/* B2 会計 */
+			'06.3.3': { icon: 'icons/c_yougo.svg', color: '#C75746' },	/* B3 税務 */
 		'06.4': { icon: 'icons/c_bunnka.svg', color: '#C75746' },			/* F4 市民活動 */
+			'06.4.1': { icon: 'icons/c_kosodate_shien.svg', color: '#C75746' },	/* B1 広報 */
+			'06.4.2': { icon: 'icons/c_sankaku_ikusei.svg', color: '#C75746' },	/* B2 市民自治 */
+			'06.4.3': { icon: 'icons/c_yougo.svg', color: '#C75746' },	/* B3 文化・スポーツ振興 */
 		'06.5': { icon: 'icons/c_bunnka.svg', color: '#C75746' },			/* F5 安全・安心 */
+			'06.5.1': { icon: 'icons/c_kosodate_shien.svg', color: '#C75746' },	/* B1 交通政策 */
+			'06.5.2': { icon: 'icons/c_sankaku_ikusei.svg', color: '#C75746' },	/* B2 防災対策 */
 		'06.6': { icon: 'icons/c_bunnka.svg', color: '#C75746' },			/* F6 その他 */
+			'06.6.1': { icon: 'icons/c_kosodate_shien.svg', color: '#C75746' },	/* B1 戸籍管理 */
+			'06.6.2': { icon: 'icons/c_sankaku_ikusei.svg', color: '#C75746' },	/* B2 選挙 */
+			'06.6.3': { icon: 'icons/c_yougo.svg', color: '#C75746' },	/* B3 統計 */
+			'06.6.4': { icon: 'icons/c_yougo.svg', color: '#C75746' },	/* B3 監査 */
+			'06.6.5': { icon: 'icons/c_yougo.svg', color: '#C75746' },	/* B3 その他 */
 
 	'07': { icon: 'icons/c_syoubou_bousai.svg', color: '#C75746' },				/* 消防・救急 */
 		'07.1': { icon: 'c_shyoubou.svg', color: '#C75746' },		/* O1 消防・救急 */
