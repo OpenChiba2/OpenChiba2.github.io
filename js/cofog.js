@@ -34,8 +34,8 @@ OpenSpending.Styles.Cofog = {
 			'02.2.1': { icon: 'icons/post-secondary.svg', color: '#C75746' },	/* B1 青少年育成 */
 			'02.2.2': { icon: 'icons/c_sankaku_ikusei.svg', color: '#C75746' },	/* B2 教育総務 */
 			'02.2.3': { icon: 'icons/research.svg', color: '#C75746' },	/* B3 教育指導 */
-			'02.2.4': { icon: 'icons/secondary-lower.svg ', color: '#C75746' },	/* B3 小学校 */
-			'02.2.5': { icon: 'icons/post-secondary.svg ', color: '#C75746' },	/* B3 中学校 */
+			'02.2.4': { icon: 'icons/icons/pre-school.svg ', color: '#C75746' },	/* B3 小学校 */
+			'02.2.5': { icon: 'icons/secondary-lower.svg ', color: '#C75746' },	/* B3 中学校 */
 			'02.2.6': { icon: 'icons/post-secondary.svg', color: '#C75746' },	/* B3 高等学校 */
 			'02.2.7': { icon: 'icons/books.svg ', color: '#C75746' },	/* B3 特別支援学校 */
 			'02.2.8': { icon: 'icons/books.svg ', color: '#C75746' },	/* B3 社会教育 */
@@ -98,10 +98,10 @@ OpenSpending.Styles.Cofog = {
 			'06.6.5': { icon: 'icons/c_yougo.svg', color: '#C75746' },	/* B3 その他 */
 
 	'07': { icon: 'icons/c_syoubou_bousai.svg', color: '#C75746' },				/* 消防・救急 */
-		'07.1': { icon: 'icons/c_shyoubou.svg', color: '#C75746' },		/* O1 消防・救急 */
+		'07.1': { icon: 'icons/c_syoubou_bousai.svg', color: '#C75746' },		/* O1 消防・救急 */
 			'07.1.1': { icon: 'icons/fire-brigade.svg', color: '#C75746' },	/* B1 消防 */
-			'07.1.2': { icon: 'icons/admin-order-safety.svg', color: '#C75746' },	/* B2 消防団 */
-			'07.1.3': { icon: 'icons/fire-brigade.svg ', color: '#C75746' },	/* B3 消防施設 */
+			'07.1.2': { icon: 'icons/unemployment.svg ', color: '#C75746' },	/* B2 消防団 */
+			'07.1.3': { icon: 'icons/c_shyoubou.svg ', color: '#C75746' },	/* B3 消防施設 */
 		'07.2': { icon: 'icons/c_shyoubou.svg', color: '#C75746' },		/* O2 消防・救急 */
 		
 	'08': { icon: 'icons/environment.svg', color: '#C75746' },				/* ごみ処理・リサイクル・環境保全 */
