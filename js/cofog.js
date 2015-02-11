@@ -45,10 +45,17 @@ OpenSpending.Styles.Cofog = {
 		'03.1': { icon: 'icons/c_watersup.svg', color: '#C75746' },	/* G1 公債費 */
 
 	'04': { icon: 'icons/economy-tourism.svg', color: '#C75746' },			/* 経済・観光 */
-		'04.1': { icon: 'icons/c_nougyou.svg', color: '#C75746' },				/* C1 農業 */
-		'04.2': { icon: 'icons/c_syoukougyou.svg', color: '#C75746' },				/* C2 商工業 */
+		'04.1': { icon: 'icons/c_nougyou.svg', color: '#C75746' },				/* C1 経済 */
+			'04.1.1': { icon: 'icons/c_kosodate_shien.svg', color: '#C75746' },	/* B1 労働 */
+			'04.1.2': { icon: 'icons/c_sankaku_ikusei.svg', color: '#C75746' },	/* B2 商工業振興 */
+		'04.2': { icon: 'icons/c_syoukougyou.svg', color: '#C75746' },				/* C2 農畜産業 */
+			'04.2.1': { icon: 'icons/c_kosodate_shien.svg', color: '#C75746' },	/* B1 農業 */
+			'04.2.2': { icon: 'icons/c_sankaku_ikusei.svg', color: '#C75746' },	/* B2 畜産業 */
 		'04.3': { icon: 'icons/harbor.svg', color: '#C75746' },				/* C3 観光 */
+			'04.3.1': { icon: 'icons/c_kosodate_shien.svg', color: '#C75746' },	/* B1 観光 */
 		'04.4': { icon: 'icons/harbor.svg', color: '#C75746' },				/* C4 消費者 */
+			'04.4.1': { icon: 'icons/c_kosodate_shien.svg', color: '#C75746' },	/* B1 計量検査 */
+			'04.4.2': { icon: 'icons/c_sankaku_ikusei.svg', color: '#C75746' },	/* B2 消費者対策 */
 
 	'05': { icon: 'icons/our-streets.svg', color: '#C75746' },				/* まちづくり */
 		'05.1': { icon: 'icons/street-lights.svg', color: '#C75746' },		/* D1 道路・交通 */
