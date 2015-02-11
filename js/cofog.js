@@ -83,9 +83,9 @@ OpenSpending.Styles.Cofog = {
 			'06.3.1': { icon: 'icons/c_kosodate_shien.svg', color: '#C75746' },	/* B1 財政管理 */
 			'06.3.2': { icon: 'icons/c_sankaku_ikusei.svg', color: '#C75746' },	/* B2 会計 */
 			'06.3.3': { icon: 'icons/c_yougo.svg', color: '#C75746' },	/* B3 税務 */
-		'06.4': { icon: 'icons/civilian-action.svg', color: '#C75746' },			/* F4 市民活動 */
+		'06.4': { icon: 'icons/unemployment.svg ', color: '#C75746' },			/* F4 市民活動 */
 			'06.4.1': { icon: 'icons/c_kosodate_shien.svg', color: '#C75746' },	/* B1 広報 */
-			'06.4.2': { icon: 'icons/c_sankaku_ikusei.svg', color: '#C75746' },	/* B2 市民自治 */
+			'06.4.2': { icon: 'unemployment.svg ', color: '#C75746' },	/* B2 市民自治 */
 			'06.4.3': { icon: 'icons/sports.svg ', color: '#C75746' },	/* B3 文化・スポーツ振興 */
 		'06.5': { icon: 'icons/c_bunnka.svg', color: '#C75746' },			/* F5 安全・安心 */
 			'06.5.1': { icon: 'icons/car.svg ', color: '#C75746' },	/* B1 交通政策 */
@@ -111,7 +111,7 @@ OpenSpending.Styles.Cofog = {
 		'08.2': { icon: 'icons/garbage.svg', color: '#C75746' },			/* E2 リサイクル */
 			'08.2.1': { icon: 'icons/garbage.svg', color: '#C75746' },	/* B1 リサイクル */
 		'08.3': { icon: 'icons/environment.svg', color: '#C75746' },			/* E3 環境保全*/
-			'08.3.1': { icon: 'icons/toilet.svg ', color: '#C75746' },	/* B1 し尿処理 */
+			'08.3.1': { icon: 'icons/toilet.svg', color: '#C75746' },	/* B1 し尿処理 */
 		
 	'09': { icon: 'icons/c_government4.svg', color: '#C75746' },				/* その他 */
 		'09.1': { icon: 'icons/c_government4.svg', color: '#C75746' },		/* H1 その他 */
