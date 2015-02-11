@@ -52,7 +52,7 @@ OpenSpending.Styles.Cofog = {
 			'04.2.1': { icon: 'icons/c_nougyou.svg ', color: '#C75746' },	/* B1 農業 */
 			'04.2.2': { icon: 'icons/pig.svg ', color: '#C75746' },	/* B2 畜産業 */
 		'04.3': { icon: 'icons/harbor.svg', color: '#C75746' },				/* C3 観光 */
-			'04.3.1': { icon: 'icons/island.svg ', color: '#C75746' },	/* B1 観光 */
+			'04.3.1': { icon: 'icons/island.svg', color: '#C75746' },	/* B1 観光 */
 		'04.4': { icon: 'icons/harbor.svg', color: '#C75746' },				/* C4 消費者 */
 			'04.4.1': { icon: 'icons/c_kosodate_shien.svg', color: '#C75746' },	/* B1 計量検査 */
 			'04.4.2': { icon: 'icons/c_sankaku_ikusei.svg', color: '#C75746' },	/* B2 消費者対策 */
