@@ -21,7 +21,7 @@
         "taxonomy": "cofog3",
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog3/",
         "_id": 1,
-        "name": "0.1.1",
+        "name": "01.1.1",
         "label": "社会福祉"
       }
     },
@@ -47,7 +47,7 @@
         "taxonomy": "cofog3",
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog3/",
         "_id": 2,
-        "name": "0.1.2",
+        "name": "01.1.2",
         "label": "高齢者福祉"
       }
     },
@@ -73,7 +73,7 @@
         "taxonomy": "cofog3",
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog3/",
         "_id": 3,
-        "name": "0.1.3",
+        "name": "01.1.3",
         "label": "障害者福祉"
       }
     },
@@ -99,7 +99,7 @@
         "taxonomy": "cofog3",
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog3/",
         "_id": 4,
-        "name": "0.1.4",
+        "name": "01.1.4",
         "label": "生活保護"
       }
     },
