@@ -58,9 +58,18 @@ OpenSpending.Styles.Cofog = {
 			'04.4.2': { icon: 'icons/c_sankaku_ikusei.svg', color: '#C75746' },	/* B2 消費者対策 */
 
 	'05': { icon: 'icons/our-streets.svg', color: '#C75746' },				/* まちづくり */
-		'05.1': { icon: 'icons/street-lights.svg', color: '#C75746' },		/* D1 道路・交通 */
-		'05.2': { icon: 'icons/harbor.svg', color: '#C75746' },				/* D2 都市整備・港湾 */
-		'05.3': { icon: 'icons/housing.svg', color: '#C75746' },			/* D3 建築 */
+		'05.1': { icon: 'icons/street-lights.svg', color: '#C75746' },		/* D1 土木 */
+			'05.1.1': { icon: 'icons/c_kosodate_shien.svg', color: '#C75746' },	/* B1 道路 */
+			'05.1.2': { icon: 'icons/c_sankaku_ikusei.svg', color: '#C75746' },	/* B2 河川 */
+			'05.1.3': { icon: 'icons/c_yougo.svg', color: '#C75746' },	/* B3 港湾 */
+		'05.2': { icon: 'icons/harbor.svg', color: '#C75746' },				/* D2 街づくり */
+			'05.2.1': { icon: 'icons/c_kosodate_shien.svg', color: '#C75746' },	/* B1 都市計画 */
+			'05.2.2': { icon: 'icons/c_sankaku_ikusei.svg', color: '#C75746' },	/* B2 モノレール */
+			'05.2.3': { icon: 'icons/c_yougo.svg', color: '#C75746' },	/* B3 下水道 */
+		'05.3': { icon: 'icons/housing.svg', color: '#C75746' },			/* D3 住環境 */
+			'05.3.1': { icon: 'icons/c_kosodate_shien.svg', color: '#C75746' },	/* B1 公園 */
+			'05.3.2': { icon: 'icons/c_sankaku_ikusei.svg', color: '#C75746' },	/* B2 緑化推進 */
+			'05.3.3': { icon: 'icons/c_yougo.svg', color: '#C75746' },	/* B3 住宅 */
 
 	'06': { icon: 'icons/civilian-action.svg', color: '#C75746' },			/* 行政・議会運営・市民活動推進 */
 		'06.1': { icon: 'icons/civilian-action.svg', color: '#C75746' },	/* F1 議会 */
