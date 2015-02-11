@@ -19,8 +19,8 @@ OpenSpending.Styles.Cofog = {
 			'01.2.1': { icon: 'icons/c_kosodate_shien.svg', color: '#C75746' },	/* B1 保健衛生 */
 			'01.2.2': { icon: 'icons/c_kosodate_shien.svg', color: '#C75746' },	/* B1 感染症・公害対策 */
 			'01.2.3': { icon: 'icons/c_kosodate_shien.svg', color: '#C75746' },	/* B1 環境衛生 */
-			'01.2.4': { icon: 'icons/c_kosodate_shien.svg', color: '#C75746' },	/* B1 病院 */
-			'01.2.5': { icon: 'icons/c_kosodate_shien.svg', color: '#C75746' },	/* B1 ス水道 */
+			'01.2.4': { icon: 'icons/hospital.svg ', color: '#C75746' },	/* B1 病院 */
+			'01.2.5': { icon: 'icons/c_watersup.svg ', color: '#C75746' },	/* B1 水道 */
 
 	'02': { icon: 'icons/schools.svg', color: '#C75746' },					/* 子育て・教育 */
 		'02.1': { icon: 'icons/pre-school.svg', color: '#C75746' },			/* 子育て */
@@ -99,7 +99,7 @@ OpenSpending.Styles.Cofog = {
 
 	'07': { icon: 'icons/c_syoubou_bousai.svg', color: '#C75746' },				/* 消防・救急 */
 		'07.1': { icon: 'c_shyoubou.svg', color: '#C75746' },		/* O1 消防・救急 */
-			'07.1.1': { icon: 'icons/c_kosodate_shien.svg', color: '#C75746' },	/* B1 消防 */
+			'07.1.1': { icon: 'icons/admin-order-safety.svg', color: '#C75746' },	/* B1 消防 */
 			'07.1.2': { icon: 'icons/c_sankaku_ikusei.svg', color: '#C75746' },	/* B2 消防団 */
 			'07.1.3': { icon: 'icons/c_yougo.svg', color: '#C75746' },	/* B3 消防施設 */
 		'07.2': { icon: 'c_shyoubou.svg', color: '#C75746' },		/* O2 消防・救急 */
