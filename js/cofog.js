@@ -26,12 +26,12 @@ OpenSpending.Styles.Cofog = {
 
 	'02': { icon: 'icons/schools.svg', color: '#C75746' },					/* 子育て・教育 */
 		'02.1': { icon: 'icons/family.svg ', color: '#C75746' },			/* 子育て */
-			'02.1.1': { icon: 'icons/c_kosodate_shien.svg', color: '#C75746' },	/* B1 児童福祉 */
+			'02.1.1': { icon: 'icons/c_sankaku_ikusei.svg', color: '#C75746' },	/* B1 児童福祉 */
 			'02.1.2': { icon: 'icons/c_sankaku_ikusei.svg', color: '#C75746' },	/* B2 母子福祉 */
 			'02.1.3': { icon: 'icons/community.svg ', color: '#C75746' },	/* B3 児童施設 */
-			'02.1.4': { icon: 'icons/c_yougo.svg', color: '#C75746' },	/* B3 幼稚園 */
-			'02.1.5': { icon: 'icons/c_yougo.svg', color: '#C75746' },	/* B3 保育園 */
-			'02.1.6': { icon: 'icons/c_yougo.svg', color: '#C75746' },	/* B3 保育所 */
+			'02.1.4': { icon: 'icons/pre-school.svg', color: '#C75746' },	/* B3 幼稚園 */
+			'02.1.5': { icon: 'icons/pre-school.svg', color: '#C75746' },	/* B3 保育園 */
+			'02.1.6': { icon: 'icons/pre-school.svg', color: '#C75746' },	/* B3 保育所 */
 		'02.2': { icon: 'icons/education.svg', color: '#C75746' },			/* B4 教育 */
 			'02.2.1': { icon: 'icons/post-secondary.svg', color: '#C75746' },	/* B1 青少年育成 */
 			'02.2.2': { icon: 'icons/c_sankaku_ikusei.svg', color: '#C75746' },	/* B2 教育総務 */
