@@ -233,6 +233,32 @@
         "label": "水道"
       }
     },
+    
+    {
+      "num_entries": 1,
+      "amount": 1.00,
+      "cofog1": {
+        "taxonomy": "cofog1",
+        "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog1/01",
+        "_id": 1,
+        "name": "01",
+        "label": "保健・福祉・医療"
+      },
+      "cofog2": {
+        "taxonomy": "cofog2",
+        "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog2/01-1",
+        "_id": 2,
+        "name": "01.3",
+        "label": "災害救助"
+      },
+      "cofog3": {
+        "taxonomy": "cofog3",
+        "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog3/",
+        "_id": 1,
+        "name": "",
+        "label": ""
+      }
+    },
   
     {
       "num_entries": 1,
@@ -827,7 +853,7 @@
         "taxonomy": "cofog3",
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog3/",
         "_id": 2,
-        "name": "04.4.1",
+        "name": "04.4.2",
         "label": "消費者対策"
       }
     },
