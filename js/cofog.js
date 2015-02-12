@@ -36,7 +36,7 @@ OpenSpending.Styles.Cofog = {
 			'02.2.1': { icon: 'icons/post-secondary.svg', color: '#C75746' },	/* B1 青少年育成 */
 			'02.2.2': { icon: 'icons/c_sankaku_ikusei.svg', color: '#C75746' },	/* B2 教育総務 */
 			'02.2.3': { icon: 'icons/research.svg', color: '#C75746' },	/* B3 教育指導 */
-			'02.2.4': { icon: 'icons/icons/pre-school.svg ', color: '#C75746' },	/* B3 小学校 */
+			'02.2.4': { icon: 'icons/pre-school.svg ', color: '#C75746' },	/* B3 小学校 */
 			'02.2.5': { icon: 'icons/secondary-lower.svg ', color: '#C75746' },	/* B3 中学校 */
 			'02.2.6': { icon: 'icons/post-secondary.svg', color: '#C75746' },	/* B3 高等学校 */
 			'02.2.7': { icon: 'icons/books.svg ', color: '#C75746' },	/* B3 特別支援学校 */
