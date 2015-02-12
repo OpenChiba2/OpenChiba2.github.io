@@ -11,14 +11,14 @@ OpenSpending.Styles.Cofog = {
 	/* yokohama cofog */
 	'01': { icon: 'icons/c_kenkou_fukushi.svg', color: '#C75746' },			/* 保健・福祉・医療 */
 		'01.1': { icon: 'icons/c_kenkou.svg', color: '#C75746' },		/* A1 福祉 */
-			'01.1.1': { icon: 'icons/c_kosodate_shien.svg', color: '#C75746' },	/* B1 社会福祉 */
+			'01.1.1': { icon: 'icons/c_sankaku_ikusei.svg', color: '#C75746' },	/* B1 社会福祉 */
 			'01.1.2': { icon: 'icons/old-age.svg ', color: '#C75746' },	/* B1 高齢者福祉 */
 			'01.1.3': { icon: 'icons/helping-others.svg ', color: '#C75746' },	/* B1 障害者福祉 */
 			'01.1.4': { icon: 'icons/c_kosodate_shien.svg', color: '#C75746' },	/* B1 生活保護 */
 		'01.2': { icon: 'icons/c_fukushi.svg', color: '#C75746' },		/* A2 保健衛生 */
 			'01.2.1': { icon: 'icons/c_kosodate_shien.svg', color: '#C75746' },	/* B1 保健衛生 */
 			'01.2.2': { icon: 'icons/pollution.svg ', color: '#C75746' },	/* B1 感染症・公害対策 */
-			'01.2.3': { icon: 'icons/c_kosodate_shien.svg', color: '#C75746' },	/* B1 環境衛生 */
+			'01.2.3': { icon: 'icons/tree.svg', color: '#C75746' },	/* B1 環境衛生 */
 			'01.2.4': { icon: 'icons/hospital.svg ', color: '#C75746' },	/* B1 病院 */
 			'01.2.5': { icon: 'icons/c_watersup.svg ', color: '#C75746' },	/* B1 水道 */
 
@@ -38,20 +38,20 @@ OpenSpending.Styles.Cofog = {
 			'02.2.5': { icon: 'icons/secondary-lower.svg ', color: '#C75746' },	/* B3 中学校 */
 			'02.2.6': { icon: 'icons/post-secondary.svg', color: '#C75746' },	/* B3 高等学校 */
 			'02.2.7': { icon: 'icons/books.svg ', color: '#C75746' },	/* B3 特別支援学校 */
-			'02.2.8': { icon: 'icons/books.svg ', color: '#C75746' },	/* B3 社会教育 */
+			'02.2.8': { icon: 'icons/manufactoring-construction.svg ', color: '#C75746' },	/* B3 社会教育 */
 			'02.2.9': { icon: 'icons/c_yougo.svg', color: '#C75746' },	/* B3 給食 */
 
 	'03': { icon: 'icons/dollar.svg ', color: '#C75746' },			/* 借金返済 */
 		'03.1': { icon: 'icons/dollar.svg ', color: '#C75746' },	/* G1 公債費 */
 
 	'04': { icon: 'icons/economy-tourism.svg', color: '#C75746' },			/* 経済・観光 */
-		'04.1': { icon: 'icons/c_nougyou.svg', color: '#C75746' },				/* C1 経済 */
+		'04.1': { icon: 'icons/economy-tourism.svg', color: '#C75746' },				/* C1 経済 */
 			'04.1.1': { icon: 'icons/labour.svg', color: '#C75746' },	/* B1 労働 */
 			'04.1.2': { icon: 'icons/manufactoring-construction.svg', color: '#C75746' },	/* B2 商工業振興 */
-		'04.2': { icon: 'icons/c_syoukougyou.svg', color: '#C75746' },				/* C2 農畜産業 */
+		'04.2': { icon: 'icons/c_nougyou.svg', color: '#C75746' },				/* C2 農畜産業 */
 			'04.2.1': { icon: 'icons/c_nougyou.svg ', color: '#C75746' },	/* B1 農業 */
 			'04.2.2': { icon: 'icons/pig.svg ', color: '#C75746' },	/* B2 畜産業 */
-		'04.3': { icon: 'icons/harbor.svg', color: '#C75746' },				/* C3 観光 */
+		'04.3': { icon: 'icons/island.svg', color: '#C75746' },				/* C3 観光 */
 			'04.3.1': { icon: 'icons/island.svg', color: '#C75746' },	/* B1 観光 */
 		'04.4': { icon: 'icons/civilian-action.svg', color: '#C75746' },				/* C4 消費者 */
 			'04.4.1': { icon: 'icons/c_kosodate_shien.svg', color: '#C75746' },	/* B1 計量検査 */
