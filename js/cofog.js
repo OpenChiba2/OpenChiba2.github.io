@@ -63,9 +63,9 @@ OpenSpending.Styles.Cofog = {
 			'05.1.2': { icon: 'icons/c_sankaku_ikusei.svg', color: '#C75746' },	/* B2 河川 */
 			'05.1.3': { icon: 'icons/anchor.svg ', color: '#C75746' },	/* B3 港湾 */
 		'05.2': { icon: 'icons/our-streets.svg', color: '#C75746' },				/* D2 街づくり */
-			'05.2.1': { icon: 'icons/c_kosodate_shien.svg', color: '#C75746' },	/* B1 都市計画 */
+			'05.2.1': { icon: 'icons/worldmap.svg', color: '#C75746' },	/* B1 都市計画 */
 			'05.2.2': { icon: 'icons/c_sankaku_ikusei.svg', color: '#C75746' },	/* B2 モノレール */
-			'05.2.3': { icon: 'icons/c_yougo.svg', color: '#C75746' },	/* B3 下水道 */
+			'05.2.3': { icon: 'icons / c_waterdoun-watersup.svg ', color: '#C75746' },	/* B3 下水道 */
 		'05.3': { icon: 'icons/housing.svg', color: '#C75746' },			/* D3 住環境 */
 			'05.3.1': { icon: 'icons/community.svg ', color: '#C75746' },	/* B1 公園 */
 			'05.3.2': { icon: 'icons/tree.svg', color: '#C75746' },	/* B2 緑化推進 */
