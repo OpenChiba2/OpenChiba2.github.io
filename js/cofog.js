@@ -21,8 +21,8 @@ OpenSpending.Styles.Cofog = {
 			'01.2.3': { icon: 'icons/tree.svg', color: '#C75746' },	/* B1 環境衛生 */
 			'01.2.4': { icon: 'icons/hospital.svg ', color: '#C75746' },	/* B1 病院 */
 			'01.2.5': { icon: 'icons/c_watersup.svg ', color: '#C75746' },	/* B1 水道 */
-		'01.3': { icon: 'icons/rd-order-safety.svg  ', color: '#C75746' },		/* A2 災害救助 */
-			'01.3.1': { icon: 'icons/c_kosodate_shien.svg', color: '#C75746' },	/* B1 災害救助 */
+		'01.3': { icon: 'icons/order-safety.svg ', color: '#C75746' },		/* A2 災害救助 */
+			'01.3.1': { icon: 'icons/order-safety.svg ', color: '#C75746' },	/* B1 災害救助 */
 
 	'02': { icon: 'icons/schools.svg', color: '#C75746' },					/* 子育て・教育 */
 		'02.1': { icon: 'icons/family.svg ', color: '#C75746' },			/* 子育て */
