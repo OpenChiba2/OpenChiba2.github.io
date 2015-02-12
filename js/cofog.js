@@ -53,9 +53,9 @@ OpenSpending.Styles.Cofog = {
 			'04.2.2': { icon: 'icons/pig.svg ', color: '#C75746' },	/* B2 畜産業 */
 		'04.3': { icon: 'icons/harbor.svg', color: '#C75746' },				/* C3 観光 */
 			'04.3.1': { icon: 'icons/island.svg', color: '#C75746' },	/* B1 観光 */
-		'04.4': { icon: 'icons/harbor.svg', color: '#C75746' },				/* C4 消費者 */
+		'04.4': { icon: 'icons/civilian-action.svg', color: '#C75746' },				/* C4 消費者 */
 			'04.4.1': { icon: 'icons/c_kosodate_shien.svg', color: '#C75746' },	/* B1 計量検査 */
-			'04.4.2': { icon: 'icons/c_sankaku_ikusei.svg', color: '#C75746' },	/* B2 消費者対策 */
+			'04.4.2': { icon: 'icons/civilian-action.svg', color: '#C75746' },	/* B2 消費者対策 */
 
 	'05': { icon: 'icons/our-streets.svg', color: '#C75746' },				/* まちづくり */
 		'05.1': { icon: 'icons/construction.svg ', color: '#C75746' },		/* D1 土木 */
@@ -73,7 +73,7 @@ OpenSpending.Styles.Cofog = {
 
 	'06': { icon: 'icons/civilian-action.svg', color: '#C75746' },			/* 行政・議会運営・市民活動推進 */
 		'06.1': { icon: 'icons/civilian-action.svg', color: '#C75746' },	/* F1 議会 */
-			'06.1.1': { icon: 'icons/c_kosodate_shien.svg', color: '#C75746' },	/* B1 議会 */
+			'06.1.1': { icon: 'icons/civilian-action.svg', color: '#C75746' },	/* B1 議会 */
 		'06.2': { icon: 'icons/c_bunnka.svg', color: '#C75746' },			/* F2 管理 */
 			'06.2.1': { icon: 'icons/c_kosodate_shien.svg', color: '#C75746' },	/* B1 一般管理 */
 			'06.2.2': { icon: 'icons/c_sankaku_ikusei.svg', color: '#C75746' },	/* B2 人事管理 */
@@ -82,7 +82,7 @@ OpenSpending.Styles.Cofog = {
 		'06.3': { icon: 'icons/c_bunnka.svg', color: '#C75746' },			/* F3 財務・税務 */
 			'06.3.1': { icon: 'icons/c_kosodate_shien.svg', color: '#C75746' },	/* B1 財政管理 */
 			'06.3.2': { icon: 'icons/c_sankaku_ikusei.svg', color: '#C75746' },	/* B2 会計 */
-			'06.3.3': { icon: 'icons/c_yougo.svg', color: '#C75746' },	/* B3 税務 */
+			'06.3.3': { icon: 'icons/dollar.svg', color: '#C75746' },	/* B3 税務 */
 		'06.4': { icon: 'icons/unemployment.svg ', color: '#C75746' },			/* F4 市民活動 */
 			'06.4.1': { icon: 'icons/media.svg ', color: '#C75746' },	/* B1 広報 */
 			'06.4.2': { icon: 'icons/unemployment.svg ', color: '#C75746' },	/* B2 市民自治 */
@@ -91,8 +91,8 @@ OpenSpending.Styles.Cofog = {
 			'06.5.1': { icon: 'icons/car.svg ', color: '#C75746' },	/* B1 交通政策 */
 			'06.5.2': { icon: 'icons/c_sankaku_ikusei.svg', color: '#C75746' },	/* B2 防災対策 */
 		'06.6': { icon: 'icons/c_bunnka.svg', color: '#C75746' },			/* F6 その他 */
-			'06.6.1': { icon: 'icons/c_kosodate_shien.svg', color: '#C75746' },	/* B1 戸籍管理 */
-			'06.6.2': { icon: 'icons/c_sankaku_ikusei.svg', color: '#C75746' },	/* B2 選挙 */
+			'06.6.1': { icon: 'icons/schools.svg', color: '#C75746' },	/* B1 戸籍管理 */
+			'06.6.2': { icon: 'icons/civilian-action.svg', color: '#C75746' },	/* B2 選挙 */
 			'06.6.3': { icon: 'icons/c_yougo.svg', color: '#C75746' },	/* B3 統計 */
 			'06.6.4': { icon: 'icons/c_yougo.svg', color: '#C75746' },	/* B3 監査 */
 			'06.6.5': { icon: 'icons/c_yougo.svg', color: '#C75746' },	/* B3 その他 */
@@ -105,8 +105,8 @@ OpenSpending.Styles.Cofog = {
 		'07.2': { icon: 'icons/c_shyoubou.svg', color: '#C75746' },		/* O2 消防・救急 */
 		
 	'08': { icon: 'icons/environment.svg', color: '#C75746' },				/* ごみ処理・リサイクル・環境保全 */
-		'08.1': { icon: 'icons/tree.svg', color: '#C75746' },				/* E1 ごみ処理 */
-			'08.1.1': { icon: 'icons/c_kosodate_shien.svg', color: '#C75746' },	/* B1 ごみ処理 */
+		'08.1': { icon: 'icons/c_syoukougyou.svg', color: '#C75746' },				/* E1 ごみ処理 */
+			'08.1.1': { icon: 'icons/c_syoukougyou.svg', color: '#C75746' },	/* B1 ごみ処理 */
 			'08.1.2': { icon: 'icons/c_sankaku_ikusei.svg', color: '#C75746' },	/* B2 廃棄物・残土対策 */
 		'08.2': { icon: 'icons/garbage.svg', color: '#C75746' },			/* E2 リサイクル */
 			'08.2.1': { icon: 'icons/garbage.svg', color: '#C75746' },	/* B1 リサイクル */
@@ -115,6 +115,6 @@ OpenSpending.Styles.Cofog = {
 		
 	'09': { icon: 'icons/c_government4.svg', color: '#C75746' },				/* その他 */
 		'09.1': { icon: 'icons/dollar.svg', color: '#C75746' },		/* H1 基金償還等 */
-		'09.2': { icon: 'icons/environment.svg', color: '#C75746' },		/* H1 災害復旧 */
+		'09.2': { icon: 'icons/c_sankaku_ikusei.svg', color: '#C75746' },		/* H1 災害復旧 */
 
 };
