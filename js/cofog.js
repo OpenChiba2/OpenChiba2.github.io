@@ -41,7 +41,7 @@ OpenSpending.Styles.Cofog = {
 			'02.2.6': { icon: 'icons/post-secondary.svg', color: '#C75746' },	/* B3 高等学校 */
 			'02.2.7': { icon: 'icons/books.svg ', color: '#C75746' },	/* B3 特別支援学校 */
 			'02.2.8': { icon: 'icons/manufactoring-construction.svg ', color: '#C75746' },	/* B3 社会教育 */
-			'02.2.9': { icon: 'icons/c_yougo.svg', color: '#C75746' },	/* B3 給食 */
+			'02.2.9': { icon: 'icons/c_sankaku_ikusei.svg', color: '#C75746' },	/* B3 給食 */
 
 	'03': { icon: 'icons/yen.svg  ', color: '#C75746' },			/* 借金返済 */
 		'03.1': { icon: 'icons/yen.svg  ', color: '#C75746' },	/* G1 公債費 */
