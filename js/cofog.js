@@ -104,8 +104,7 @@ OpenSpending.Styles.Cofog = {
 			'07.1.1': { icon: 'icons/fire-brigade.svg', color: '#C75746' },	/* B1 消防 */
 			'07.1.2': { icon: 'icons/unemployment.svg ', color: '#C75746' },	/* B2 消防団 */
 			'07.1.3': { icon: 'icons/c_shyoubou.svg ', color: '#C75746' },	/* B3 消防施設 */
-		'07.2': { icon: 'icons/c_shyoubou.svg', color: '#C75746' },		/* O2 消防・救急 */
-		
+
 	'08': { icon: 'icons/environment.svg', color: '#C75746' },				/* ごみ処理・リサイクル・環境保全 */
 		'08.1': { icon: 'icons/c_syoukougyou.svg', color: '#C75746' },				/* E1 ごみ処理 */
 			'08.1.1': { icon: 'icons/c_syoukougyou.svg', color: '#C75746' },	/* B1 ごみ処理 */
