@@ -81,7 +81,7 @@ OpenSpending.Styles.Cofog = {
 			'06.2.2': { icon: 'icons/c_sankaku_ikusei.svg', color: '#C75746' },	/* B2 人事管理 */
 			'06.2.3': { icon: 'icons/publicaffairs.svg ', color: '#C75746' },	/* B3 文書管理 */
 			'06.2.4': { icon: 'icons/c_government4.svg', color: '#C75746' },	/* B3 区政推進 */
-		'06.3': { icon: 'icons/c_bunnka.svg', color: '#C75746' },			/* F3 財務・税務 */
+		'06.3': { icon: 'icons/transfer.svg ', color: '#C75746' },			/* F3 財務・税務 */
 			'06.3.1': { icon: 'icons/c_kosodate_shien.svg', color: '#C75746' },	/* B1 財政管理 */
 			'06.3.2': { icon: 'icons/c_sankaku_ikusei.svg', color: '#C75746' },	/* B2 会計 */
 			'06.3.3': { icon: 'icons/dollar.svg', color: '#C75746' },	/* B3 税務 */
