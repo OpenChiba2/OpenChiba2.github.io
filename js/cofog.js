@@ -57,7 +57,7 @@ OpenSpending.Styles.Cofog = {
 			'04.3.1': { icon: 'icons/island.svg', color: '#C75746' },	/* B1 観光 */
 		'04.4': { icon: 'icons/civilian-action.svg', color: '#C75746' },				/* C4 消費者 */
 			'04.4.1': { icon: 'icons/misc-services.svg ', color: '#C75746' },	/* B1 計量検査 */
-			'04.4.2': { icon: 'icons/civilian-action.svg', color: '#C75746' },	/* B2 消費者対策 */
+			'04.4.2': { icon: 'icons/human-resources.svg ', color: '#C75746' },	/* B2 消費者対策 */
 
 	'05': { icon: 'icons/machi.svg ', color: '#C75746' },				/* まちづくり */
 		'05.1': { icon: 'icons/coal.svg ', color: '#C75746' },		/* D1 土木 */
@@ -76,8 +76,8 @@ OpenSpending.Styles.Cofog = {
 	'06': { icon: 'icons/civilian-action.svg', color: '#C75746' },			/* 行政・議会運営・市民活動推進 */
 		'06.1': { icon: 'icons/civilian-action.svg', color: '#C75746' },	/* F1 議会 */
 			'06.1.1': { icon: 'icons/civilian-action.svg', color: '#C75746' },	/* B1 議会 */
-		'06.2': { icon: 'icons/misc-services.svg ', color: '#C75746' },			/* F2 管理 */
-			'06.2.1': { icon: 'icons/misc-services.svg ', color: '#C75746' },	/* B1 一般管理 */
+		'06.2': { icon: 'icons/human-resources.svg  ', color: '#C75746' },			/* F2 管理 */
+			'06.2.1': { icon: 'icons/human-resources.svg ', color: '#C75746' },	/* B1 一般管理 */
 			'06.2.2': { icon: 'icons/planning.svg  ', color: '#C75746' },	/* B2 人事管理 */
 			'06.2.3': { icon: 'icons/publicaffairs.svg ', color: '#C75746' },	/* B3 文書管理 */
 			'06.2.4': { icon: 'icons/c_government4.svg', color: '#C75746' },	/* B3 区政推進 */
