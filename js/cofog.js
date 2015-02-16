@@ -60,13 +60,13 @@ OpenSpending.Styles.Cofog = {
 			'04.4.2': { icon: 'icons/civilian-action.svg', color: '#C75746' },	/* B2 消費者対策 */
 
 	'05': { icon: 'icons/our-streets.svg', color: '#C75746' },				/* まちづくり */
-		'05.1': { icon: 'icons/construction.svg ', color: '#C75746' },		/* D1 土木 */
-			'05.1.1': { icon: 'icons/c_kosodate_shien.svg', color: '#C75746' },	/* B1 道路 */
-			'05.1.2': { icon: 'icons/c_sankaku_ikusei.svg', color: '#C75746' },	/* B2 河川 */
+		'05.1': { icon: 'icons/coal.svg ', color: '#C75746' },		/* D1 土木 */
+			'05.1.1': { icon: 'icons/construction.svg ', color: '#C75746' },	/* B1 道路 */
+			'05.1.2': { icon: 'icons/coal.svg ', color: '#C75746' },	/* B2 河川 */
 			'05.1.3': { icon: 'icons/anchor.svg ', color: '#C75746' },	/* B3 港湾 */
 		'05.2': { icon: 'icons/our-streets.svg', color: '#C75746' },				/* D2 街づくり */
 			'05.2.1': { icon: 'icons/worldmap.svg', color: '#C75746' },	/* B1 都市計画 */
-			'05.2.2': { icon: 'icons/railways.svg ', color: '#C75746' },	/* B2 モノレール */
+			'05.2.2': { icon: 'icons/railway.svg  ', color: '#C75746' },	/* B2 モノレール */
 			'05.2.3': { icon: 'icons/c_waterdoun-watersup.svg ', color: '#C75746' },	/* B3 下水道 */
 		'05.3': { icon: 'icons/housing.svg', color: '#C75746' },			/* D3 住環境 */
 			'05.3.1': { icon: 'icons/community.svg ', color: '#C75746' },	/* B1 公園 */
@@ -78,7 +78,7 @@ OpenSpending.Styles.Cofog = {
 			'06.1.1': { icon: 'icons/civilian-action.svg', color: '#C75746' },	/* B1 議会 */
 		'06.2': { icon: 'icons/misc-services.svg ', color: '#C75746' },			/* F2 管理 */
 			'06.2.1': { icon: 'icons/misc-services.svg ', color: '#C75746' },	/* B1 一般管理 */
-			'06.2.2': { icon: 'icons/c_sankaku_ikusei.svg', color: '#C75746' },	/* B2 人事管理 */
+			'06.2.2': { icon: 'icons/planning.svg  ', color: '#C75746' },	/* B2 人事管理 */
 			'06.2.3': { icon: 'icons/publicaffairs.svg ', color: '#C75746' },	/* B3 文書管理 */
 			'06.2.4': { icon: 'icons/c_government4.svg', color: '#C75746' },	/* B3 区政推進 */
 		'06.3': { icon: 'icons/transfer.svg ', color: '#C75746' },			/* F3 財務・税務 */
@@ -94,8 +94,8 @@ OpenSpending.Styles.Cofog = {
 			'06.5.2': { icon: 'icons/c_bousai.svg ', color: '#C75746' },	/* B2 防災対策 */
 		'06.6': { icon: 'icons/c_bunnka.svg', color: '#C75746' },			/* F6 その他 */
 			'06.6.1': { icon: 'icons/family2.svg ', color: '#C75746' },	/* B1 戸籍管理 */
-			'06.6.2': { icon: 'icons/civilian-action.svg', color: '#C75746' },	/* B2 選挙 */
-			'06.6.3': { icon: 'icons/misc-services.svg ', color: '#C75746' },	/* B3 統計 */
+			'06.6.2': { icon: 'icons/vote.svg ', color: '#C75746' },	/* B2 選挙 */
+			'06.6.3': { icon: 'icons/economija.svg ', color: '#C75746' },	/* B3 統計 */
 			'06.6.4': { icon: 'icons/misc-services.svg ', color: '#C75746' },	/* B3 監査 */
 			'06.6.5': { icon: 'icons/c_government4.svg', color: '#C75746' },	/* B3 その他 */
 
