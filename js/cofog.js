@@ -61,8 +61,8 @@ OpenSpending.Styles.Cofog = {
 
 	'05': { icon: 'icons/our-streets.svg', color: '#C75746' },				/* まちづくり */
 		'05.1': { icon: 'icons/coal.svg ', color: '#C75746' },		/* D1 土木 */
-			'05.1.1': { icon: 'icons/construction.svg ', color: '#C75746' },	/* B1 道路 */
-			'05.1.2': { icon: 'icons/coal.svg ', color: '#C75746' },	/* B2 河川 */
+			'05.1.1': { icon: 'icons/farms.svg  ', color: '#C75746' },	/* B1 道路 */
+			'05.1.2': { icon: 'icons/scop.svg  ', color: '#C75746' },	/* B2 河川 */
 			'05.1.3': { icon: 'icons/anchor.svg ', color: '#C75746' },	/* B3 港湾 */
 		'05.2': { icon: 'icons/our-streets.svg', color: '#C75746' },				/* D2 街づくり */
 			'05.2.1': { icon: 'icons/worldmap.svg', color: '#C75746' },	/* B1 都市計画 */
