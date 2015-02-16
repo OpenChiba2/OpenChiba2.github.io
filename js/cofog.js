@@ -30,8 +30,7 @@ OpenSpending.Styles.Cofog = {
 			'02.1.2': { icon: 'icons/c_sankaku_ikusei.svg', color: '#C75746' },	/* B2 母子福祉 */
 			'02.1.3': { icon: 'icons/community.svg ', color: '#C75746' },	/* B3 児童施設 */
 			'02.1.4': { icon: 'icons/child.svg ', color: '#C75746' },	/* B3 幼稚園 */
-			'02.1.5': { icon: 'icons/child.svg ', color: '#C75746' },	/* B3 保育園 */
-			'02.1.6': { icon: 'icons/child.svg ', color: '#C75746' },	/* B3 保育所 */
+			'02.1.5': { icon: 'icons/child.svg ', color: '#C75746' },	/* B3 保育園・保育所 */
 		'02.2': { icon: 'icons/education.svg', color: '#C75746' },			/* B4 教育 */
 			'02.2.1': { icon: 'icons/post-secondary.svg', color: '#C75746' },	/* B1 青少年育成 */
 			'02.2.2': { icon: 'icons/c_sankaku_ikusei.svg', color: '#C75746' },	/* B2 教育総務 */
