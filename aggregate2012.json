@@ -386,33 +386,7 @@
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog3/",
         "_id": 14,
         "name": "02.1.5",
-        "label": "<a href=\"childsupport.html#welfare\" target=\"info\">保育園</a>"
-      }
-    },
-
-    {
-      "num_entries": 1,
-      "amount": 0.91,
-      "cofog1": {
-        "taxonomy": "cofog1",
-        "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog1/02",
-        "_id": 2,
-        "name": "02",
-        "label": "子育て・教育"
-      },
-      "cofog2": {
-        "taxonomy": "cofog2",
-        "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog2/02-1",
-        "_id": 1,
-        "name": "02.1",
-        "label": "子育て"
-      },
-      "cofog3": {
-        "taxonomy": "cofog3",
-        "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog3/",
-        "_id": 15,
-        "name": "02.1.6",
-        "label": "<a href=\"childsupport.html#welfare\" target=\"info\">保育所</a>"
+        "label": "<a href=\"childsupport.html#welfare\" target=\"info\">保育園・保育所</a>"
       }
     },
 
