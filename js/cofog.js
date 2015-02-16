@@ -29,9 +29,9 @@ OpenSpending.Styles.Cofog = {
 			'02.1.1': { icon: 'icons/c_sankaku_ikusei.svg', color: '#C75746' },	/* B1 児童福祉 */
 			'02.1.2': { icon: 'icons/c_sankaku_ikusei.svg', color: '#C75746' },	/* B2 母子福祉 */
 			'02.1.3': { icon: 'icons/community.svg ', color: '#C75746' },	/* B3 児童施設 */
-			'02.1.4': { icon: 'icons/pre-school.svg', color: '#C75746' },	/* B3 幼稚園 */
-			'02.1.5': { icon: 'icons/pre-school.svg', color: '#C75746' },	/* B3 保育園 */
-			'02.1.6': { icon: 'icons/pre-school.svg', color: '#C75746' },	/* B3 保育所 */
+			'02.1.4': { icon: 'icons/child.svg ', color: '#C75746' },	/* B3 幼稚園 */
+			'02.1.5': { icon: 'icons/child.svg ', color: '#C75746' },	/* B3 保育園 */
+			'02.1.6': { icon: 'icons/child.svg ', color: '#C75746' },	/* B3 保育所 */
 		'02.2': { icon: 'icons/education.svg', color: '#C75746' },			/* B4 教育 */
 			'02.2.1': { icon: 'icons/post-secondary.svg', color: '#C75746' },	/* B1 青少年育成 */
 			'02.2.2': { icon: 'icons/c_sankaku_ikusei.svg', color: '#C75746' },	/* B2 教育総務 */
@@ -43,8 +43,8 @@ OpenSpending.Styles.Cofog = {
 			'02.2.8': { icon: 'icons/manufactoring-construction.svg ', color: '#C75746' },	/* B3 社会教育 */
 			'02.2.9': { icon: 'icons/c_yougo.svg', color: '#C75746' },	/* B3 給食 */
 
-	'03': { icon: 'icons/dollar.svg ', color: '#C75746' },			/* 借金返済 */
-		'03.1': { icon: 'icons/dollar.svg ', color: '#C75746' },	/* G1 公債費 */
+	'03': { icon: 'icons/yen.svg  ', color: '#C75746' },			/* 借金返済 */
+		'03.1': { icon: 'icons/yen.svg  ', color: '#C75746' },	/* G1 公債費 */
 
 	'04': { icon: 'icons/economy-tourism.svg', color: '#C75746' },			/* 経済・観光 */
 		'04.1': { icon: 'icons/economy-tourism.svg', color: '#C75746' },				/* C1 経済 */
@@ -59,7 +59,7 @@ OpenSpending.Styles.Cofog = {
 			'04.4.1': { icon: 'icons/misc-services.svg ', color: '#C75746' },	/* B1 計量検査 */
 			'04.4.2': { icon: 'icons/civilian-action.svg', color: '#C75746' },	/* B2 消費者対策 */
 
-	'05': { icon: 'icons/our-streets.svg', color: '#C75746' },				/* まちづくり */
+	'05': { icon: 'icons/machi.svg ', color: '#C75746' },				/* まちづくり */
 		'05.1': { icon: 'icons/coal.svg ', color: '#C75746' },		/* D1 土木 */
 			'05.1.1': { icon: 'icons/farms.svg  ', color: '#C75746' },	/* B1 道路 */
 			'05.1.2': { icon: 'icons/scop.svg  ', color: '#C75746' },	/* B2 河川 */
