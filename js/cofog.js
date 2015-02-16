@@ -44,6 +44,7 @@ OpenSpending.Styles.Cofog = {
 
 	'03': { icon: 'icons/yen.svg  ', color: '#C75746' },			/* 借金返済 */
 		'03.1': { icon: 'icons/yen.svg  ', color: '#C75746' },	/* G1 公債費 */
+			'03.1.1': { icon: 'icons/yen.svg ', color: '#C75746' },	/* B1 公債費 */
 
 	'04': { icon: 'icons/economy-tourism.svg', color: '#C75746' },			/* 経済・観光 */
 		'04.1': { icon: 'icons/economy-tourism.svg', color: '#C75746' },				/* C1 経済 */
@@ -115,6 +116,8 @@ OpenSpending.Styles.Cofog = {
 		
 	'09': { icon: 'icons/c_government4.svg', color: '#C75746' },				/* その他 */
 		'09.1': { icon: 'icons/yen.svg', color: '#C75746' },		/* H1 基金償還等 */
+			'09.1.1': { icon: 'icons/yen.svg', color: '#C75746' },	/* B1 基金償還等 */
 		'09.2': { icon: 'icons/c_sankaku_ikusei.svg', color: '#C75746' },		/* H1 災害復旧 */
+			'09.2.1': { icon: 'iconsc_sankaku_ikusei.svg', color: '#C75746' },	/* B1 災害復旧 */
 
 };
