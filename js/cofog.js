@@ -82,9 +82,9 @@ OpenSpending.Styles.Cofog = {
 			'06.2.3': { icon: 'icons/publicaffairs.svg ', color: '#C75746' },	/* B3 文書管理 */
 			'06.2.4': { icon: 'icons/c_government4.svg', color: '#C75746' },	/* B3 区政推進 */
 		'06.3': { icon: 'icons/transfer.svg ', color: '#C75746' },			/* F3 財務・税務 */
-			'06.3.1': { icon: 'icons/c_kosodate_shien.svg', color: '#C75746' },	/* B1 財政管理 */
-			'06.3.2': { icon: 'icons/c_sankaku_ikusei.svg', color: '#C75746' },	/* B2 会計 */
-			'06.3.3': { icon: 'icons/dollar.svg', color: '#C75746' },	/* B3 税務 */
+			'06.3.1': { icon: 'icons/financial-admin.svg ', color: '#C75746' },	/* B1 財政管理 */
+			'06.3.2': { icon: 'icons/yen.svg', color: '#C75746' },	/* B2 会計 */
+			'06.3.3': { icon: 'icons/publicaffairs.svg', color: '#C75746' },	/* B3 税務 */
 		'06.4': { icon: 'icons/unemployment.svg ', color: '#C75746' },			/* F4 市民活動 */
 			'06.4.1': { icon: 'icons/media.svg ', color: '#C75746' },	/* B1 広報 */
 			'06.4.2': { icon: 'icons/unemployment.svg ', color: '#C75746' },	/* B2 市民自治 */
@@ -92,7 +92,7 @@ OpenSpending.Styles.Cofog = {
 		'06.5': { icon: 'icons/c_bousai.svg ', color: '#C75746' },			/* F5 安全・安心 */
 			'06.5.1': { icon: 'icons/car.svg ', color: '#C75746' },	/* B1 交通政策 */
 			'06.5.2': { icon: 'icons/c_bousai.svg ', color: '#C75746' },	/* B2 防災対策 */
-		'06.6': { icon: 'icons/c_bunnka.svg', color: '#C75746' },			/* F6 その他 */
+		'06.6': { icon: 'icons/c_government4.svg', color: '#C75746' },			/* F6 その他 */
 			'06.6.1': { icon: 'icons/family2.svg ', color: '#C75746' },	/* B1 戸籍管理 */
 			'06.6.2': { icon: 'icons/vote.svg ', color: '#C75746' },	/* B2 選挙 */
 			'06.6.3': { icon: 'icons/economija.svg ', color: '#C75746' },	/* B3 統計 */
@@ -116,7 +116,7 @@ OpenSpending.Styles.Cofog = {
 			'08.3.1': { icon: 'icons/toilet.svg', color: '#C75746' },	/* B1 し尿処理 */
 		
 	'09': { icon: 'icons/c_government4.svg', color: '#C75746' },				/* その他 */
-		'09.1': { icon: 'icons/dollar.svg', color: '#C75746' },		/* H1 基金償還等 */
+		'09.1': { icon: 'icons/yen.svg', color: '#C75746' },		/* H1 基金償還等 */
 		'09.2': { icon: 'icons/c_sankaku_ikusei.svg', color: '#C75746' },		/* H1 災害復旧 */
 
 };
