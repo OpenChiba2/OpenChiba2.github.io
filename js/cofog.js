@@ -56,8 +56,8 @@ OpenSpending.Styles.Cofog = {
 		'04.3': { icon: 'icons/island.svg', color: '#C75746' },				/* C3 観光 */
 			'04.3.1': { icon: 'icons/island.svg', color: '#C75746' },	/* B1 観光 */
 		'04.4': { icon: 'icons/civilian-action.svg', color: '#C75746' },				/* C4 消費者 */
-			'04.4.1': { icon: 'icons/misc-services.svg ', color: '#C75746' },	/* B1 計量検査 */
-			'04.4.2': { icon: 'icons/human-resources.svg ', color: '#C75746' },	/* B2 消費者対策 */
+			'04.4.1': { icon: 'icons/human-resources.svg ', color: '#C75746' },	/* B1 計量検査 */
+			'04.4.2': { icon: 'icons/civilian-action.svg ', color: '#C75746' },	/* B2 消費者対策 */
 
 	'05': { icon: 'icons/machi.svg ', color: '#C75746' },				/* まちづくり */
 		'05.1': { icon: 'icons/coal.svg ', color: '#C75746' },		/* D1 土木 */
