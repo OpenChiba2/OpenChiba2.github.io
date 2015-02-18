@@ -444,32 +444,6 @@
 
     {
       "num_entries": 1,
-      "amount": 0.12,
-      "cofog1": {
-        "taxonomy": "cofog1",
-        "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog1/02",
-        "_id": 2,
-        "name": "02",
-        "label": "子育て・教育"
-      },
-      "cofog2": {
-        "taxonomy": "cofog2",
-        "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog2/02-1",
-        "_id": 2,
-        "name": "02.2",
-        "label": "教育"
-      },
-      "cofog3": {
-        "taxonomy": "cofog3",
-        "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog3/",
-        "_id": 23,
-        "name": "02.2.3",
-        "label": "<a href=\"childsupport.html#welfare\" target=\"info\">教育指導</a>"
-      }
-    },
-
-    {
-      "num_entries": 1,
       "amount": 3.04,
       "cofog1": {
         "taxonomy": "cofog1",
@@ -489,7 +463,7 @@
         "taxonomy": "cofog3",
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog3/",
         "_id": 24,
-        "name": "02.2.4",
+        "name": "02.2.3",
         "label": "<a href=\"childsupport.html#welfare\" target=\"info\">小学校</a>"
       }
     },
@@ -515,7 +489,7 @@
         "taxonomy": "cofog3",
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog3/",
         "_id": 25,
-        "name": "02.2.5",
+        "name": "02.2.4",
         "label": "<a href=\"childsupport.html#welfare\" target=\"info\">中学校</a>"
       }
     },
@@ -541,7 +515,7 @@
         "taxonomy": "cofog3",
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog3/",
         "_id": 26,
-        "name": "02.2.6",
+        "name": "02.2.5",
         "label": "<a href=\"childsupport.html#welfare\" target=\"info\">高等学校</a>"
       }
     },
@@ -567,7 +541,7 @@
         "taxonomy": "cofog3",
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog3/",
         "_id": 27,
-        "name": "02.2.7",
+        "name": "02.2.6",
         "label": "<a href=\"childsupport.html#welfare\" target=\"info\">特別支援学校</a>"
       }
     },
@@ -593,7 +567,7 @@
         "taxonomy": "cofog3",
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog3/",
         "_id": 28,
-        "name": "02.2.8",
+        "name": "02.2.7",
         "label": "<a href=\"childsupport.html#welfare\" target=\"info\">社会教育</a>"
       }
     },
@@ -619,7 +593,7 @@
         "taxonomy": "cofog3",
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog3/",
         "_id": 29,
-        "name": "02.2.9",
+        "name": "02.2.8",
         "label": "<a href=\"childsupport.html#welfare\" target=\"info\">給食</a>"
       }
     },
