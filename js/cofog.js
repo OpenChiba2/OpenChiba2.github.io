@@ -96,7 +96,7 @@ OpenSpending.Styles.Cofog = {
 			'06.6.2': { icon: 'icons/vote.svg ', color: '#C75746' },	/* B2 選挙 */
 			'06.6.3': { icon: 'icons/economija.svg ', color: '#C75746' },	/* B3 統計 */
 			'06.6.4': { icon: 'icons/misc-services.svg ', color: '#C75746' },	/* B3 監査 */
-			'06.6.5': { icon: 'icons/city symbol5', color: '#C75746' },	/* B3 その他 */
+			'06.6.5': { icon: 'icons/city symbol5.svg', color: '#C75746' },	/* B3 その他 */
 
 	'07': { icon: 'icons/c_syoubou_bousai.svg', color: '#C75746' },				/* 消防・救急 */
 		'07.1': { icon: 'icons/c_syoubou_bousai.svg', color: '#C75746' },		/* O1 消防・救急 */
