@@ -65,7 +65,7 @@ OpenSpending.Styles.Cofog = {
 			'05.1.3': { icon: 'icons/anchor.svg ', color: '#C75746' },	/* B3 港湾 */
 		'05.2': { icon: 'icons/our-streets.svg', color: '#C75746' },				/* D2 街づくり */
 			'05.2.1': { icon: 'icons/worldmap.svg', color: '#C75746' },	/* B1 都市計画 */
-			'05.2.2': { icon: 'icons/railway.svg  ', color: '#C75746' },	/* B2 モノレール */
+			'05.2.2': { icon: 'icons/railway.svg  ', color: '#C75746' },	/* B2 交通 */
 			'05.2.3': { icon: 'icons/c_waterdoun-watersup.svg ', color: '#C75746' },	/* B3 下水道 */
 		'05.3': { icon: 'icons/housing.svg', color: '#C75746' },			/* D3 住環境 */
 			'05.3.1': { icon: 'icons/community.svg ', color: '#C75746' },	/* B1 公園 */
@@ -89,7 +89,7 @@ OpenSpending.Styles.Cofog = {
 			'06.4.2': { icon: 'icons/unemployment.svg ', color: '#C75746' },	/* B2 市民自治 */
 			'06.4.3': { icon: 'icons/sports.svg ', color: '#C75746' },	/* B3 文化・スポーツ振興 */
 		'06.5': { icon: 'icons/c_bousai.svg ', color: '#C75746' },			/* F5 安全・安心 */
-			'06.5.1': { icon: 'icons/car.svg ', color: '#C75746' },	/* B1 交通政策 */
+			'06.5.1': { icon: 'icons/car.svg ', color: '#C75746' },	/* B1 交通安全 */
 			'06.5.2': { icon: 'icons/c_bousai.svg ', color: '#C75746' },	/* B2 防災対策 */
 		'06.6': { icon: 'icons/c_government4.svg', color: '#C75746' },			/* F6 その他 */
 			'06.6.1': { icon: 'icons/family2.svg ', color: '#C75746' },	/* B1 戸籍管理 */
@@ -114,9 +114,8 @@ OpenSpending.Styles.Cofog = {
 			'08.3.1': { icon: 'icons/toilet.svg', color: '#C75746' },	/* B1 し尿処理 */
 		
 	'09': { icon: 'icons/city7.svg', color: '#C75746' },				/* その他 */
-		'09.1': { icon: 'icons/yen.svg', color: '#C75746' },		/* H1 基金償還等 */
+		'09.1': { icon: 'icons/city7.svg', color: '#C75746' },		/* H1 その他 */
 			'09.1.1': { icon: 'icons/yen.svg', color: '#C75746' },	/* B1 基金償還等 */
-		'09.2': { icon: 'icons/c_sankaku_ikusei.svg', color: '#C75746' },		/* H1 災害復旧 */
-			'09.2.1': { icon: 'icons/c_sankaku_ikusei.svg', color: '#C75746' },	/* B1 災害復旧 */
+　　　　　　　　　　　　'09.1.2': { icon: 'icons/c_sankaku_ikusei.svg', color: '#C75746' },	/* B2 災害復旧 */
 
 };
