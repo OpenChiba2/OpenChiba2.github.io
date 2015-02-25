@@ -37,7 +37,7 @@
 	cursor: default; 
 	font-size: 11px;
 	font-family: sans-serif;
-	margin-top:5px;
+	margin-top:2px;
 }
 
 .bubbletree .label2 span {
@@ -65,7 +65,7 @@
 }
 
 .bubbletree-wrapper .tooltip .header {
-	padding: 2px;
+	padding: 6px;
 }
 
 .bubbletree-wrapper .tooltip .header .icon {
