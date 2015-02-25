@@ -4,7 +4,7 @@
 <svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="100px" height="100px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
 <circle fill="#B2B2B2" cx="50" cy="50" r="50"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="m 55.4,20 a 5.4,5.4 0 1 1 0,0" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="m 55.4,20 a 5.4,5.4 0 1 1 55.4,20" />
 <path fill="#231815" d="M24.6,53.326c0-14.16,6.805-26.504,16.893-33.065C26.216,23.375,14.72,36.888,14.72,53.086
 	c0,15.811,10.959,29.055,25.691,32.574C30.92,78.938,24.6,66.973,24.6,53.326z"/>
 <path fill="#231815" d="M75.398,53.324c0-14.157-6.806-26.501-16.894-33.063c15.28,3.114,26.774,16.627,26.774,32.823
