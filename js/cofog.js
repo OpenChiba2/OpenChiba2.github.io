@@ -79,7 +79,7 @@ OpenSpending.Styles.Cofog = {
 			'06.2.1': { icon: 'icons/human-resources.svg ', color: '#C75746' },	/* B1 一般管理 */
 			'06.2.2': { icon: 'icons/planning.svg  ', color: '#C75746' },	/* B2 人事管理 */
 			'06.2.3': { icon: 'icons/publicaffairs.svg ', color: '#C75746' },	/* B3 文書管理 */
-			'06.2.4': { icon: 'icons/c_government4.svg', color: '#C75746' },	/* B3 区政推進 */
+			'06.2.4': { icon: 'icons/city7.svg', color: '#C75746' },	/* B3 区政推進 */
 		'06.3': { icon: 'icons/transfer.svg ', color: '#C75746' },			/* F3 財務・税務 */
 			'06.3.1': { icon: 'icons/financial-admin.svg ', color: '#C75746' },	/* B1 財政管理 */
 			'06.3.2': { icon: 'icons/yen.svg', color: '#C75746' },	/* B2 会計 */
@@ -91,7 +91,7 @@ OpenSpending.Styles.Cofog = {
 		'06.5': { icon: 'icons/c_bousai.svg ', color: '#C75746' },			/* F5 安全・安心 */
 			'06.5.1': { icon: 'icons/car.svg ', color: '#C75746' },	/* B1 交通安全 */
 			'06.5.2': { icon: 'icons/c_bousai.svg ', color: '#C75746' },	/* B2 防災対策 */
-		'06.6': { icon: 'icons/c_government4.svg', color: '#C75746' },			/* F6 その他 */
+		'06.6': { icon: 'icons/city7.svg', color: '#C75746' },			/* F6 その他 */
 			'06.6.1': { icon: 'icons/family2.svg ', color: '#C75746' },	/* B1 戸籍管理 */
 			'06.6.2': { icon: 'icons/vote.svg ', color: '#C75746' },	/* B2 選挙 */
 			'06.6.3': { icon: 'icons/economija.svg ', color: '#C75746' },	/* B3 統計 */
