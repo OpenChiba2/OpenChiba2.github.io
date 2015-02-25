@@ -886,7 +886,7 @@
     
     {
       "num_entries": 1,
-      "amount": 5.01,
+      "amount": 2.47,
       "cofog1": {
         "taxonomy": "cofog1",
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog1/01",
@@ -912,7 +912,7 @@
     
     {
       "num_entries": 1,
-      "amount": 0.08,
+      "amount": 0.10,
       "cofog1": {
         "taxonomy": "cofog1",
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog1/01",
@@ -932,13 +932,13 @@
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog3/",
         "_id": 2,
         "name": "05.2.2",
-        "label": "モノレール"
+        "label": "交通"
       }
     },
     
     {
       "num_entries": 1,
-      "amount": 0.57,
+      "amount": 3.09,
       "cofog1": {
         "taxonomy": "cofog1",
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog1/01",
