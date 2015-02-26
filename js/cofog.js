@@ -20,7 +20,7 @@ OpenSpending.Styles.Cofog = {
 			'01.2.2': { icon: 'icons/pollution.svg ', color: '#C75746' },	/* B1 感染症・公害対策 */
 			'01.2.3': { icon: 'icons/tree.svg', color: '#C75746' },	/* B1 環境衛生 */
 			'01.2.4': { icon: 'icons/hospital.svg ', color: '#C75746' },	/* B1 病院 */
-			'01.2.5': { icon: 'icons/c_watersup.svg ', color: '#C75746' },	/* B1 水道 */
+			'01.2.5': { icon: 'icons/water.svg ', color: '#C75746' },	/* B1 水道 */
 		'01.3': { icon: 'icons/order-safety.svg ', color: '#C75746' },		/* A2 災害救助 */
 			'01.3.1': { icon: 'icons/order-safety.svg ', color: '#C75746' },	/* B1 災害救助 */
 
@@ -32,7 +32,7 @@ OpenSpending.Styles.Cofog = {
 			'02.1.4': { icon: 'icons/child.svg ', color: '#C75746' },	/* B3 幼稚園 */
 			'02.1.5': { icon: 'icons/child.svg ', color: '#C75746' },	/* B3 保育園・保育所 */
 		'02.2': { icon: 'icons/education.svg', color: '#C75746' },			/* B4 教育 */
-			'02.2.1': { icon: 'icons/post-secondary.svg', color: '#C75746' },	/* B1 青少年育成 */
+			'02.2.1': { icon: 'icons/schools.svg', color: '#C75746' },	/* B1 青少年育成 */
 			'02.2.2': { icon: 'icons/c_sankaku_ikusei.svg', color: '#C75746' },	/* B2 教育総務 */
 			'02.2.3': { icon: 'icons/pre-school.svg ', color: '#C75746' },	/* B3 小学校 */
 			'02.2.4': { icon: 'icons/secondary-lower.svg ', color: '#C75746' },	/* B3 中学校 */
@@ -64,7 +64,7 @@ OpenSpending.Styles.Cofog = {
 			'05.1.2': { icon: 'icons/scop.svg  ', color: '#C75746' },	/* B2 河川 */
 			'05.1.3': { icon: 'icons/anchor.svg ', color: '#C75746' },	/* B3 港湾 */
 		'05.2': { icon: 'icons/our-streets.svg', color: '#C75746' },				/* D2 街づくり */
-			'05.2.1': { icon: 'icons/worldmap.svg', color: '#C75746' },	/* B1 都市計画 */
+			'05.2.1': { icon: 'icons/planning.svg', color: '#C75746' },	/* B1 都市計画 */
 			'05.2.2': { icon: 'icons/railway.svg  ', color: '#C75746' },	/* B2 交通 */
 			'05.2.3': { icon: 'icons/c_waterdoun-watersup.svg ', color: '#C75746' },	/* B3 下水道 */
 		'05.3': { icon: 'icons/housing.svg', color: '#C75746' },			/* D3 住環境 */
@@ -77,7 +77,7 @@ OpenSpending.Styles.Cofog = {
 			'06.1.1': { icon: 'icons/civilian-action.svg', color: '#C75746' },	/* B1 議会 */
 		'06.2': { icon: 'icons/human-resources.svg  ', color: '#C75746' },			/* F2 管理 */
 			'06.2.1': { icon: 'icons/human-resources.svg ', color: '#C75746' },	/* B1 一般管理 */
-			'06.2.2': { icon: 'icons/planning.svg  ', color: '#C75746' },	/* B2 人事管理 */
+			'06.2.2': { icon: 'icons/payroll.svg  ', color: '#C75746' },	/* B2 人事管理 */
 			'06.2.3': { icon: 'icons/publicaffairs.svg ', color: '#C75746' },	/* B3 文書管理 */
 			'06.2.4': { icon: 'icons/city7.svg', color: '#C75746' },	/* B3 区政推進 */
 		'06.3': { icon: 'icons/transfer.svg ', color: '#C75746' },			/* F3 財務・税務 */
