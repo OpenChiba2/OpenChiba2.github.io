@@ -1750,7 +1750,7 @@
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog1/01",
         "_id": 10,
         "name": "10",
-        "label": "その他"
+        "label": "追加テスト"
       },
       "cofog2": {
         "taxonomy": "cofog2",
@@ -1776,7 +1776,7 @@
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog1/01",
         "_id": 10,
         "name": "10",
-        "label": "その他"
+        "label": "追加テスト"
       },
       "cofog2": {
         "taxonomy": "cofog2",
