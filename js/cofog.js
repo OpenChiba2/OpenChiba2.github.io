@@ -118,9 +118,4 @@ OpenSpending.Styles.Cofog = {
 			'09.1.1': { icon: 'icons/yen.svg', color: '#C75746' },	/* B1 基金償還等 */
 　　　　　　　　　　　　'09.1.2': { icon: 'icons/c_sankaku_ikusei.svg', color: '#C75746' },	/* B2 災害復旧 */
 
-	'10': { icon: 'icons/city7.svg', color: '#C75746' },				/* その他 */
-		'10.1': { icon: 'icons/city7.svg', color: '#C75746' },		/* H1 その他 */
-			'10.1.1': { icon: 'icons/yen.svg', color: '#C75746' },	/* B1 基金償還等 */
-　　　　　　　　　　　　'10.1.2': { icon: 'icons/c_sankaku_ikusei.svg', color: '#C75746' },	/* B2 災害復旧 */
-
 };
