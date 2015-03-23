@@ -15,9 +15,9 @@ OpenSpending.Styles.Cofog = {
 			'01.1.2': { icon: 'icons/old-age.svg ', color: '#C75746' },	/* B1 高齢者福祉 */
 			'01.1.3': { icon: 'icons/helping-others.svg ', color: '#C75746' },	/* B1 障害者福祉 */
 			'01.1.4': { icon: 'icons/c_sankaku_ikusei.svg ', color: '#C75746' },	/* B1 生活保護 */
-		'01.2': { icon: 'icons/ambulance.svg  ', color: '#C75746' },		/* A2 保健衛生 */
+		'01.2': { icon: 'icons/ambulance.svg  ', color: '#C75746' },		/* A2 保健衛生・医療 */
 			'01.2.1': { icon: 'icons/ambulance.svg  ', color: '#C75746' },	/* B1 保健衛生 */
-			'01.2.2': { icon: 'icons/pollution.svg ', color: '#C75746' },	/* B1 感染症・公害対策 */
+			'01.2.2': { icon: 'icons/pollution.svg ', color: '#C75746' },	/* B1 感染症・公害対策（健康増進） */
 			'01.2.3': { icon: 'icons/tree.svg', color: '#C75746' },	/* B1 環境衛生 */
 			'01.2.4': { icon: 'icons/hospital.svg ', color: '#C75746' },	/* B1 病院 */
 			'01.2.5': { icon: 'icons/water.svg ', color: '#C75746' },	/* B1 水道 */
@@ -39,7 +39,7 @@ OpenSpending.Styles.Cofog = {
 			'02.2.5': { icon: 'icons/post-secondary.svg', color: '#C75746' },	/* B3 高等学校 */
 			'02.2.6': { icon: 'icons/books.svg ', color: '#C75746' },	/* B3 特別支援学校 */
 			'02.2.7': { icon: 'icons/manufactoring-construction.svg ', color: '#C75746' },	/* B3 社会教育 */
-			'02.2.8': { icon: 'icons/c_sankaku_ikusei.svg', color: '#C75746' },	/* B3 給食 */
+			'02.2.8': { icon: 'icons/c_sankaku_ikusei.svg', color: '#C75746' },	/* B3 保健体育・給食 */
 
 	'03': { icon: 'icons/yen.svg  ', color: '#C75746' },			/* 借金返済 */
 		'03.1': { icon: 'icons/yen.svg  ', color: '#C75746' },	/* G1 公債費 */
@@ -72,50 +72,47 @@ OpenSpending.Styles.Cofog = {
 			'05.3.2': { icon: 'icons/tree.svg', color: '#C75746' },	/* B2 緑化推進 */
 			'05.3.3': { icon: 'icons/housing.svg', color: '#C75746' },	/* B3 住宅 */
 
-	'06': { icon: 'icons/civilian-action.svg', color: '#C75746' },			/* 行政・議会運営・市民活動推進 */
-		'06.1': { icon: 'icons/civilian-action.svg', color: '#C75746' },	/* F1 議会 */
-			'06.1.1': { icon: 'icons/civilian-action.svg', color: '#C75746' },	/* B1 議会 */
-		'06.2': { icon: 'icons/human-resources.svg  ', color: '#C75746' },			/* F2 管理 */
-			'06.2.1': { icon: 'icons/human-resources.svg ', color: '#C75746' },	/* B1 一般管理 */
-			'06.2.2': { icon: 'icons/payroll.svg  ', color: '#C75746' },	/* B2 人事管理 */
-			'06.2.3': { icon: 'icons/publicaffairs.svg ', color: '#C75746' },	/* B3 文書管理 */
-			'06.2.4': { icon: 'icons/city7.svg', color: '#C75746' },	/* B3 区政推進 */
-		'06.3': { icon: 'icons/transfer.svg ', color: '#C75746' },			/* F3 財務・税務 */
-			'06.3.1': { icon: 'icons/financial-admin.svg ', color: '#C75746' },	/* B1 財政管理 */
-			'06.3.2': { icon: 'icons/yen.svg', color: '#C75746' },	/* B2 会計 */
-			'06.3.3': { icon: 'icons/publicaffairs.svg', color: '#C75746' },	/* B3 税務 */
-		'06.4': { icon: 'icons/unemployment.svg ', color: '#C75746' },			/* F4 市民活動 */
-			'06.4.1': { icon: 'icons/media.svg ', color: '#C75746' },	/* B1 広報 */
-			'06.4.2': { icon: 'icons/unemployment.svg ', color: '#C75746' },	/* B2 市民自治 */
-			'06.4.3': { icon: 'icons/sports.svg ', color: '#C75746' },	/* B3 文化・スポーツ振興 */
-		'06.5': { icon: 'icons/c_bousai.svg ', color: '#C75746' },			/* F5 安全・安心 */
-			'06.5.1': { icon: 'icons/car.svg ', color: '#C75746' },	/* B1 交通安全 */
-			'06.5.2': { icon: 'icons/c_bousai.svg ', color: '#C75746' },	/* B2 防災対策 */
-		'06.6': { icon: 'icons/city7.svg', color: '#C75746' },			/* F6 その他 */
-			'06.6.1': { icon: 'icons/family2.svg ', color: '#C75746' },	/* B1 戸籍管理 */
-			'06.6.2': { icon: 'icons/vote.svg ', color: '#C75746' },	/* B2 選挙 */
-			'06.6.3': { icon: 'icons/economija.svg ', color: '#C75746' },	/* B3 統計 */
-			'06.6.4': { icon: 'icons/misc-services.svg ', color: '#C75746' },	/* B3 監査 */
-			'06.6.5': { icon: 'icons/city7.svg', color: '#C75746' },	/* B3 その他 */
+	'06': { icon: 'icons/civilian-action.svg', color: '#C75746' },			/* 行政、市民活動推進 */
+		'06.1': { icon: 'icons/human-resources.svg  ', color: '#C75746' },			/* Fa 管理 */
+			'06.1.1': { icon: 'icons/human-resources.svg ', color: '#C75746' },	/* F1 一般管理 */
+			'06.1.2': { icon: 'icons/payroll.svg  ', color: '#C75746' },	/* F2 人事管理 */
+			'06.1.3': { icon: 'icons/city7.svg', color: '#C75746' },	/* F3 区政推進 */
+		'06.2': { icon: 'icons/transfer.svg ', color: '#C75746' },			/* Fb 財務・税務 */
+			'06.2.1': { icon: 'icons/financial-admin.svg ', color: '#C75746' },	/* F4 財政管理 */
+			'06.2.2': { icon: 'icons/yen.svg', color: '#C75746' },	/* F5 会計 */
+			'06.2.3': { icon: 'icons/publicaffairs.svg', color: '#C75746' },	/* F6 税務 */
+		'06.3': { icon: 'icons/unemployment.svg ', color: '#C75746' },			/* Fc 市民活動・市民自治 */
+			'06.3.1': { icon: 'icons/media.svg ', color: '#C75746' },	/* F7 広報・広聴 */
+			'06.3.2': { icon: 'icons/unemployment.svg ', color: '#C75746' },	/* F8 市民自治 */
+			'06.3.3': { icon: 'icons/sports.svg ', color: '#C75746' },	/* F9 文化・スポーツ振興 */
+		'06.4': { icon: 'icons/c_bousai.svg ', color: '#C75746' },			/* Fd 防犯・防災対策 */
+			'06.4.1': { icon: 'icons/car.svg ', color: '#C75746' },	/* F10 交通安全 */
+			'06.4.2': { icon: 'icons/c_bousai.svg ', color: '#C75746' },	/* F11 防災対策 */
+		'06.5': { icon: 'icons/city7.svg', color: '#C75746' },			/* Fe その他 */
+			'06.5.1': { icon: 'icons/worldmap.svg ', color: '#C75746' },	/* F12 国際交流 */
+			'06.5.2': { icon: 'icons/family2.svg ', color: '#C75746' },	/* F13 戸籍管理 */
+			'06.5.3': { icon: 'icons/vote.svg ', color: '#C75746' },	/* F14 選挙 */
+			'06.5.4': { icon: 'icons/economija.svg ', color: '#C75746' },	/* F15 統計 */
+			'06.5.5': { icon: 'icons/misc-services.svg ', color: '#C75746' },	/* F16 監査 */
+			'06.5.6': { icon: 'icons/city7.svg', color: '#C75746' },	/* F17 その他 */
 
 	'07': { icon: 'icons/c_syoubou_bousai.svg', color: '#C75746' },				/* 消防・救急 */
 		'07.1': { icon: 'icons/c_syoubou_bousai.svg', color: '#C75746' },		/* O1 消防・救急 */
-			'07.1.1': { icon: 'icons/fire-brigade.svg', color: '#C75746' },	/* B1 消防 */
-			'07.1.2': { icon: 'icons/unemployment.svg ', color: '#C75746' },	/* B2 消防団 */
-			'07.1.3': { icon: 'icons/c_shyoubou.svg ', color: '#C75746' },	/* B3 消防施設 */
+			'07.1.1': { icon: 'icons/fire-brigade.svg', color: '#C75746' },	/* G1 消防・救急 */
+			'07.1.2': { icon: 'icons/unemployment.svg ', color: '#C75746' },	/* G2 消防団 */
+			'07.1.3': { icon: 'icons/c_shyoubou.svg ', color: '#C75746' },	/* G3 消防施設 */
 
 	'08': { icon: 'icons/environment.svg', color: '#C75746' },				/* ごみ処理・リサイクル・環境保全 */
-		'08.1': { icon: 'icons/c_syoukougyou.svg', color: '#C75746' },				/* E1 ごみ処理 */
-			'08.1.1': { icon: 'icons/c_syoukougyou.svg', color: '#C75746' },	/* B1 ごみ処理 */
-			'08.1.2': { icon: 'icons/c_sankaku_ikusei.svg', color: '#C75746' },	/* B2 廃棄物・残土対策 */
-		'08.2': { icon: 'icons/garbage.svg', color: '#C75746' },			/* E2 リサイクル */
-			'08.2.1': { icon: 'icons/garbage.svg', color: '#C75746' },	/* B1 リサイクル */
-		'08.3': { icon: 'icons/environment.svg', color: '#C75746' },			/* E3 環境保全*/
-			'08.3.1': { icon: 'icons/toilet.svg', color: '#C75746' },	/* B1 し尿処理 */
+		'08.1': { icon: 'icons/c_syoukougyou.svg', color: '#C75746' },				/* Ha ごみ処理・リサイクル */
+			'08.1.1': { icon: 'icons/c_syoukougyou.svg', color: '#C75746' },	/* H1 ごみ処理 */
+			'08.1.2': { icon: 'icons/toilet.svg', color: '#C75746' },	/* H2 し尿処理 */
+		'08.2': { icon: 'icons/environment.svg', color: '#C75746' },			/* Hb 環境保全*/
+			'08.3.1': { icon: 'icons/toilet.svg', color: '#C75746' },	/* H3 公害対策 */
 		
 	'09': { icon: 'icons/city7.svg', color: '#C75746' },				/* その他 */
-		'09.1': { icon: 'icons/city7.svg', color: '#C75746' },		/* H1 その他 */
-			'09.1.1': { icon: 'icons/yen.svg', color: '#C75746' },	/* B1 基金償還等 */
-　　　　　　　　　　　　'09.1.2': { icon: 'icons/c_sankaku_ikusei.svg', color: '#C75746' },	/* B2 災害復旧 */
+		'09.1': { icon: 'icons/city7.svg', color: '#C75746' },		/* I その他 */
+			'09.1.1': { icon: 'icons/civilian-action.svg', color: '#C75746' },	/* I1 議会 */
+			'09.1.2': { icon: 'icons/yen.svg', color: '#C75746' },	/* I1 基金償還等 */
+　　　　　　　　　　　　'09.1.3': { icon: 'icons/c_sankaku_ikusei.svg', color: '#C75746' },	/* I3 災害復旧 */
 
 };
