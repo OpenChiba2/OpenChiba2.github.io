@@ -25,21 +25,21 @@ OpenSpending.Styles.Cofog = {
 			'01.3.1': { icon: 'icons/order-safety.svg ', color: '#C75746' },	/* B1 災害救助 */
 
 	'02': { icon: 'icons/schools.svg', color: '#C75746' },					/* 子育て・教育 */
-		'02.1': { icon: 'icons/family.svg ', color: '#C75746' },			/* 子育て */
+		'02.1': { icon: 'icons/family.svg ', color: '#C75746' },			/* Ba子育て */
 			'02.1.1': { icon: 'icons/c_sankaku_ikusei.svg', color: '#C75746' },	/* B1 児童福祉 */
 			'02.1.2': { icon: 'icons/c_sankaku_ikusei.svg', color: '#C75746' },	/* B2 母子福祉 */
-			'02.1.3': { icon: 'icons/community.svg ', color: '#C75746' },	/* B3 児童施設 */
-			'02.1.4': { icon: 'icons/child.svg ', color: '#C75746' },	/* B3 幼稚園 */
-			'02.1.5': { icon: 'icons/child.svg ', color: '#C75746' },	/* B3 保育園・保育所 */
-		'02.2': { icon: 'icons/education.svg', color: '#C75746' },			/* B4 教育 */
-			'02.2.1': { icon: 'icons/schools.svg', color: '#C75746' },	/* B1 青少年育成 */
-			'02.2.2': { icon: 'icons/c_sankaku_ikusei.svg', color: '#C75746' },	/* B2 教育総務 */
-			'02.2.3': { icon: 'icons/pre-school.svg ', color: '#C75746' },	/* B3 小学校 */
-			'02.2.4': { icon: 'icons/secondary-lower.svg ', color: '#C75746' },	/* B3 中学校 */
-			'02.2.5': { icon: 'icons/post-secondary.svg', color: '#C75746' },	/* B3 高等学校 */
-			'02.2.6': { icon: 'icons/books.svg ', color: '#C75746' },	/* B3 特別支援学校 */
-			'02.2.7': { icon: 'icons/manufactoring-construction.svg ', color: '#C75746' },	/* B3 社会教育 */
-			'02.2.8': { icon: 'icons/c_sankaku_ikusei.svg', color: '#C75746' },	/* B3 保健体育・給食 */
+			'02.1.3': { icon: 'icons/community.svg ', color: '#C75746' },	/* B3 児童福祉施設 */
+			'02.1.4': { icon: 'icons/child.svg ', color: '#C75746' },	/* B4 幼稚園 */
+			'02.1.5': { icon: 'icons/child.svg ', color: '#C75746' },	/* B5 保育園・保育所 */
+			'02.1.6': { icon: 'icons/schools.svg', color: '#C75746' },	/* B6 青少年育成 */
+		'02.2': { icon: 'icons/education.svg', color: '#C75746' },			/* Bb 教育 */
+			'02.2.1': { icon: 'icons/c_sankaku_ikusei.svg', color: '#C75746' },	/* B7 教育総務 */
+			'02.2.2': { icon: 'icons/pre-school.svg ', color: '#C75746' },	/* B8 小学校 */
+			'02.2.3': { icon: 'icons/secondary-lower.svg ', color: '#C75746' },	/* B9 中学校 */
+			'02.2.4': { icon: 'icons/post-secondary.svg', color: '#C75746' },	/* B10 高等学校 */
+			'02.2.5': { icon: 'icons/books.svg ', color: '#C75746' },	/* B11 特別支援学校 */
+			'02.2.6': { icon: 'icons/manufactoring-construction.svg ', color: '#C75746' },	/* B12 社会教育 */
+			'02.2.7': { icon: 'icons/c_sankaku_ikusei.svg', color: '#C75746' },	/* B13 保健体育・給食 */
 
 	'03': { icon: 'icons/yen.svg  ', color: '#C75746' },			/* 借金返済 */
 		'03.1': { icon: 'icons/yen.svg  ', color: '#C75746' },	/* G1 公債費 */
