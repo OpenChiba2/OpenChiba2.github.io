@@ -1425,7 +1425,7 @@
         "taxonomy": "cofog3",
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog3/",
         "_id": 4,
-        "name": "06.6.4",
+        "name": "06.5.4",
         "label": "統計"
       }
     },
@@ -1451,7 +1451,7 @@
         "taxonomy": "cofog3",
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog3/",
         "_id": 5,
-        "name": "06.6.5",
+        "name": "06.5.5",
         "label": "監査"
       }
     },
@@ -1477,7 +1477,7 @@
         "taxonomy": "cofog3",
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog3/",
         "_id": 6,
-        "name": "06.6.6",
+        "name": "06.5.6",
         "label": "その他"
       }
     },
