@@ -254,7 +254,7 @@
       "cofog3": {
         "taxonomy": "cofog3",
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog3/",
-        "_id": 41,
+        "_id": 1,
         "name": "01.3.1",
         "label": "災害救助"
       }
@@ -280,7 +280,7 @@
       "cofog3": {
         "taxonomy": "cofog3",
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog3/",
-        "_id": 10,
+        "_id": 1,
         "name": "02.1.1",
         "label": "<a href=\"childsupport.html#support\" target=\"info\">児童福祉</a>"
       }
@@ -306,7 +306,7 @@
       "cofog3": {
         "taxonomy": "cofog3",
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog3/",
-        "_id": 11,
+        "_id": 2,
         "name": "02.1.2",
         "label": "<a href=\"childsupport.html#participation\" target=\"info\">母子福祉</a>"
       }
@@ -332,7 +332,7 @@
       "cofog3": {
         "taxonomy": "cofog3",
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog3/",
-        "_id": 12,
+        "_id": 3,
         "name": "02.1.3",
         "label": "<a href=\"childsupport.html#welfare\" target=\"info\">児童福祉施設</a>"
       }
@@ -358,7 +358,7 @@
       "cofog3": {
         "taxonomy": "cofog3",
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog3/",
-        "_id": 13,
+        "_id": 4,
         "name": "02.1.4",
         "label": "<a href=\"childsupport.html#welfare\" target=\"info\">幼稚園</a>"
       }
@@ -384,7 +384,7 @@
       "cofog3": {
         "taxonomy": "cofog3",
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog3/",
-        "_id": 14,
+        "_id": 5,
         "name": "02.1.5",
         "label": "<a href=\"childsupport.html#welfare\" target=\"info\">保育園・保育所</a>"
       }
@@ -410,7 +410,7 @@
       "cofog3": {
         "taxonomy": "cofog3",
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog3/",
-        "_id": 15,
+        "_id": 6,
         "name": "02.1.6",
         "label": "青少年育成"
       }
@@ -436,7 +436,7 @@
       "cofog3": {
         "taxonomy": "cofog3",
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog3/",
-        "_id": 20,
+        "_id": 1,
         "name": "02.2.1",
         "label": "<a href=\"childsupport.html#participation\" target=\"info\">教育総務</a>"
       }
@@ -462,7 +462,7 @@
       "cofog3": {
         "taxonomy": "cofog3",
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog3/",
-        "_id": 21,
+        "_id": 2,
         "name": "02.2.2",
         "label": "<a href=\"childsupport.html#welfare\" target=\"info\">小学校</a>"
       }
@@ -488,7 +488,7 @@
       "cofog3": {
         "taxonomy": "cofog3",
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog3/",
-        "_id": 22,
+        "_id": 3,
         "name": "02.2.3",
         "label": "<a href=\"childsupport.html#welfare\" target=\"info\">中学校</a>"
       }
@@ -514,7 +514,7 @@
       "cofog3": {
         "taxonomy": "cofog3",
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog3/",
-        "_id": 23,
+        "_id": 4,
         "name": "02.2.4",
         "label": "<a href=\"childsupport.html#welfare\" target=\"info\">高等学校</a>"
       }
@@ -540,7 +540,7 @@
       "cofog3": {
         "taxonomy": "cofog3",
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog3/",
-        "_id": 24,
+        "_id": 5,
         "name": "02.2.5",
         "label": "<a href=\"childsupport.html#welfare\" target=\"info\">特別支援学校</a>"
       }
@@ -566,7 +566,7 @@
       "cofog3": {
         "taxonomy": "cofog3",
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog3/",
-        "_id": 25,
+        "_id": 6,
         "name": "02.2.6",
         "label": "<a href=\"childsupport.html#welfare\" target=\"info\">社会教育</a>"
       }
@@ -592,7 +592,7 @@
       "cofog3": {
         "taxonomy": "cofog3",
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog3/",
-        "_id": 26,
+        "_id": 7,
         "name": "02.2.7",
         "label": "<a href=\"childsupport.html#welfare\" target=\"info\">給食</a>"
       }
@@ -1485,7 +1485,7 @@
 
     {
       "num_entries": 1,
-      "amount": 2.68,
+      "amount": 4.10,
       "cofog1": {
         "taxonomy": "cofog1",
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog1/01",
@@ -1505,7 +1505,7 @@
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog3/",
         "_id": 1,
         "name": "07.1.1",
-        "label": "消防"
+        "label": "消防・救急"
       }
     },
 
@@ -1537,7 +1537,7 @@
 
     {
       "num_entries": 1,
-      "amount": 0.27,
+      "amount": 0.20,
       "cofog1": {
         "taxonomy": "cofog1",
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog1/01",
@@ -1563,7 +1563,7 @@
 
     {
       "num_entries": 1,
-      "amount": 2.87,
+      "amount": 3.35,
       "cofog1": {
         "taxonomy": "cofog1",
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog1/01",
@@ -1576,20 +1576,20 @@
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog2/01-1",
         "_id": 1,
         "name": "08.1",
-        "label": "ごみ処理"
+        "label": "ごみ処理・リサイクル"
       },
       "cofog3": {
         "taxonomy": "cofog3",
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog3/",
         "_id": 1,
         "name": "08.1.1",
-        "label": "ごみ処理"
+        "label": "ごみ処理・リサイクル"
       }
     },
 
     {
       "num_entries": 1,
-      "amount": 0.34,
+      "amount": 0.08,
       "cofog1": {
         "taxonomy": "cofog1",
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog1/01",
@@ -1602,20 +1602,20 @@
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog2/01-1",
         "_id": 1,
         "name": "08.1",
-        "label": "ごみ処理"
+        "label": "ごみ処理・リサイクル"
       },
       "cofog3": {
         "taxonomy": "cofog3",
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog3/",
         "_id": 2,
         "name": "08.1.2",
-        "label": "廃棄物・残土対策"
+        "label": "し尿処理"
       }
     },
     
     {
       "num_entries": 1,
-      "amount": 0.19,
+      "amount": 0.09,
       "cofog1": {
         "taxonomy": "cofog1",
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog1/01",
@@ -1628,46 +1628,20 @@
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog2/01-1",
         "_id": 2,
         "name": "08.2",
-        "label": "リサイクル"
+        "label": "環境保全"
       },
       "cofog3": {
         "taxonomy": "cofog3",
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog3/",
         "_id": 2,
         "name": "08.2.1",
-        "label": "リサイクル"
+        "label": "公害対策"
       }
     },
     
     {
       "num_entries": 1,
-      "amount": 0.05,
-      "cofog1": {
-        "taxonomy": "cofog1",
-        "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog1/01",
-        "_id": 8,
-        "name": "08",
-        "label": "ごみ処理・リサイクル・環境保全"
-      },
-      "cofog2": {
-        "taxonomy": "cofog2",
-        "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog2/01-1",
-        "_id": 3,
-        "name": "08.3",
-        "label": "環境保全"
-      },
-      "cofog3": {
-        "taxonomy": "cofog3",
-        "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog3/",
-        "_id": 3,
-        "name": "08.3.1",
-        "label": "し尿処理"
-      }
-    },
-    
-    {
-      "num_entries": 1,
-      "amount": 0.61,
+      "amount": 0.57,
       "cofog1": {
         "taxonomy": "cofog1",
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog1/01",
@@ -1687,6 +1661,32 @@
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog3/",
         "_id": 1,
         "name": "09.1.1",
+        "label": "議会"
+      }
+    },
+    
+    {
+      "num_entries": 1,
+      "amount": 0.97,
+      "cofog1": {
+        "taxonomy": "cofog1",
+        "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog1/01",
+        "_id": 9,
+        "name": "09",
+        "label": "その他"
+      },
+      "cofog2": {
+        "taxonomy": "cofog2",
+        "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog2/01-1",
+        "_id": 1,
+        "name": "09.1",
+        "label": "その他"
+      },
+      "cofog3": {
+        "taxonomy": "cofog3",
+        "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog3/",
+        "_id": 2,
+        "name": "09.1.2",
         "label": "基金償還等"
       }
     },
@@ -1711,8 +1711,8 @@
       "cofog3": {
         "taxonomy": "cofog3",
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog3/",
-        "_id": 2,
-        "name": "09.1.2",
+        "_id": 3,
+        "name": "09.1.3",
         "label": "災害復旧"
       }
     }
