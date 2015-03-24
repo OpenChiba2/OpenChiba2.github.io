@@ -1628,7 +1628,7 @@
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog2/01-1",
         "_id": 1,
         "name": "09.1",
-        "label": "その他"
+        "label": "議会"
       },
       "cofog3": {
         "taxonomy": "cofog3",
@@ -1659,8 +1659,8 @@
       "cofog3": {
         "taxonomy": "cofog3",
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog3/",
-        "_id": 2,
-        "name": "09.1.2",
+        "_id": 1,
+        "name": "09.2.1",
         "label": "基金償還等"
       }
     },
@@ -1678,15 +1678,15 @@
       "cofog2": {
         "taxonomy": "cofog2",
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog2/01-1",
-        "_id": 1,
-        "name": "09.1",
+        "_id": 2,
+        "name": "09.2",
         "label": "その他"
       },
       "cofog3": {
         "taxonomy": "cofog3",
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog3/",
-        "_id": 3,
-        "name": "09.1.3",
+        "_id": 2,
+        "name": "09.2.2",
         "label": "災害復旧"
       }
     }
