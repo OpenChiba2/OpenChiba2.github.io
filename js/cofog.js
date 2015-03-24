@@ -110,9 +110,10 @@ OpenSpending.Styles.Cofog = {
 			'08.2.1': { icon: 'icons/ambulance.svg', color: '#C75746' },	/* H3 公害対策 */
 		
 	'09': { icon: 'icons/city7.svg', color: '#C75746' },				/* その他 */
-		'09.1': { icon: 'icons/city7.svg', color: '#C75746' },		/* I その他 */
+		'09.1': { icon: 'icons/civilian-action.svg', color: '#C75746' },		/* Ia 議会 */
 			'09.1.1': { icon: 'icons/civilian-action.svg', color: '#C75746' },	/* I1 議会 */
-			'09.1.2': { icon: 'icons/yen.svg', color: '#C75746' },	/* I1 基金償還等 */
-　　　　　　　　　　　　'09.1.3': { icon: 'icons/c_sankaku_ikusei.svg', color: '#C75746' },	/* I3 災害復旧 */
+		'09.2': { icon: 'icons/city7.svg', color: '#C75746' },		/* Ib その他 */			
+			'09.2.1': { icon: 'icons/yen.svg', color: '#C75746' },	/* I2 基金償還等 */
+　　　　　　　　　　　　'09.2.2': { icon: 'icons/c_sankaku_ikusei.svg', color: '#C75746' },	/* I3 災害復旧 */
 
 };
